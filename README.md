@@ -19,6 +19,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | IAM Policies, Access Controls, Vulnerability Assessment, Network Security, Disaster Recovery Planning      | <a href="https://github.com/shikha1149myprojects/Securing-a-Cloud-based-Healthcare-Application">Github Repo</a>|
 | Infrastructure Design, Security Methodologies, Architectural Diagramming                         | <a href="https://github.com/shikha1149myprojects/Architectural-Design-and-Overview-of-Proposed-Healthcare-Application-Platform">Github Repo</a>|
 | Real-life Web Application Security Assessment: Vulnerability Assessment, Proof of Concepts (PoCs), Security Report Writing                                | <a href="https://github.com/shikha1149myprojects/Ethical-Hacking-Training-Project">Github Repo</a>||
+| OSINT Reconnaisance                                                                                    |<a href="https://github.com/shikha1149myprojects/OSINT-Recon">Github Repo</a>|
+| Web-Scraping                                                                                     |<a href="https://github.com/shikha1149myprojects/Web-Scraping-Project">Github Repo</a>|
+| Security Tools Automation                                                                                     |<a href="https://github.com/shikha1149myprojects/Security-Tools-Automation">Github Repo</a>|
 
 ## Tools
 
@@ -55,5 +58,5 @@ My journey in computer science has led me to develop a passion for cybersecurity
 -  Architectural Design of Healthcare Application Platform
 -  OSINT Recon Report
 -  Web Scraping Project
--  Automated Vulnerability Scanning Tool with RoadMap
+-  Security Tools Automation
 -  Email Phishing Implementation
