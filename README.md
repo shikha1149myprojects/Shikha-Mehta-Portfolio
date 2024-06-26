@@ -7,17 +7,17 @@ I am actively seeking internships in cybersecurity.
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to work in roles like Security Analyst, Penetration Testing, and Cloud Security
+My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to work in roles like SOC Analyst, Penetration Testing, and Cloud Security
 
 ## Skills
 
 | Skill                                                                                                                                                     | Associated Project                                                                      |
 |-----------------------------------------------|----------------------------|
-| Penetration Testing (DVWA App): SQL Injection, File Uploading Vulnerabilities, Directory Traversal Attacks, Command Injections                            | <a href="https://github.com/shikha1149myprojects/Penetration-Testing">Github Repo</a>|
-| CMMC 2.0 Level 1 Assessment: Compliance Assessment, Documentation, Security Standards                                                                     | <a href="https://github.com/shikha1149myprojects/CMMC-Level1-Assessment">Github Repo</a>|
-| Capture The Flag Project: Ethical Hacking, Server Penetration Testing, Vulnerability Identification                                                       | <a href="https://github.com/shikha1149myprojects/Capture-The-Flag">Github Repo</a>|
-| Securing a Cloud-based Healthcare Application: IAM Policies, Access Controls, Vulnerability Assessment, Network Security, Disaster Recovery Planning      | <a href="https://github.com/shikha1149myprojects/Securing-a-Cloud-based-Healthcare-Application">Github Repo</a>|
-| Architectural Design of Healthcare Application Platform: Infrastructure Design, Security Methodologies, Architectural Diagramming                         | <a href="https://github.com/shikha1149myprojects/Architectural-Design-and-Overview-of-Proposed-Healthcare-Application-Platform">Github Repo</a>|
+| SQL Injection, File Uploading Vulnerabilities, Directory Traversal Attacks, Command Injections                            | <a href="https://github.com/shikha1149myprojects/Penetration-Testing">Github Repo</a>|
+| Compliance Assessment, Documentation, Security Standards                                                                     | <a href="https://github.com/shikha1149myprojects/CMMC-Level1-Assessment">Github Repo</a>|
+| Ethical Hacking, Server Penetration Testing, Vulnerability Identification                                                       | <a href="https://github.com/shikha1149myprojects/Capture-The-Flag">Github Repo</a>|
+| IAM Policies, Access Controls, Vulnerability Assessment, Network Security, Disaster Recovery Planning      | <a href="https://github.com/shikha1149myprojects/Securing-a-Cloud-based-Healthcare-Application">Github Repo</a>|
+| Infrastructure Design, Security Methodologies, Architectural Diagramming                         | <a href="https://github.com/shikha1149myprojects/Architectural-Design-and-Overview-of-Proposed-Healthcare-Application-Platform">Github Repo</a>|
 | Real-life Web Application Security Assessment: Vulnerability Assessment, Proof of Concepts (PoCs), Security Report Writing                                | <a href="https://github.com/shikha1149myprojects/Ethical-Hacking-Training-Project">Github Repo</a>||
 
 ## Tools
@@ -48,3 +48,12 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Projects
 - Port Swigger Labs
+- Penetration Testing (DVWA App)
+- CMMC 2.0 Level 1 Assessment
+- Capture The Flag Project
+-  Securing a Cloud-based Healthcare Application
+-  Architectural Design of Healthcare Application Platform
+-  OSINT Recon Report
+-  Web Scraping Project
+-  Automated Vulnerability Scanning Tool with RoadMap
+-  Email Phishing Implementation
