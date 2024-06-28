@@ -32,8 +32,22 @@ My journey in Information Technology has led me to develop a passion for cyberse
     <img src="https://img.shields.io/badge/-NMap-EF3B2D?&style=for-the-badge&logo=NMap&logoColor=white" />
     <img src="https://img.shields.io/badge/-Metasploit-777BB4?&style=for-the-badge&logo=Metasploit&logoColor=white" />
     <img src="https://img.shields.io/badge/-BurpSuite-1679A7?&style=for-the-badge&logo=BurpSuite&logoColor=white" />
+    <img src="https://img.shields.io/badge/-NetCat-EF3B2D?&style=for-the-badge&logo=NetCat&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Aircrack%20ng-FF9900?&style=for-the-badge&logo=Aircrack%20ng&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nessus-FFFFFF?&style=for-the-badge&logo=Nessus&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Snort-FFC0CB?&style=for-the-badge&logo=Snort&logoColor=white" />
 </div>
 
+### Web Application
+<div>
+    <img src="https://img.shields.io/badge/-Nikto-FF9900?&style=for-the-badge&logo=Nikto&logoColor=white" />
+</div>
+
+### Password Cracking Tools
+<div>
+    <img src="https://img.shields.io/badge/-John%20The%20Ripper-777BB4?&style=for-the-badge&logo=John%20The%20Ripper&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Hydra-1679A7?&style=for-the-badge&logo=Hydra&logoColor=white" />
+</div>
 
 ### SIEM
 <div>
