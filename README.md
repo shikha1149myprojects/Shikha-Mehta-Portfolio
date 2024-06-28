@@ -7,7 +7,7 @@ I am actively seeking internships in cybersecurity.
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to work in roles like SOC Analyst, Penetration Testing, and Cloud Security
+My journey in Information Technology has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to work in roles like SOC Analyst, Penetration Testing, or Cloud Security
 
 ## Skills
 
