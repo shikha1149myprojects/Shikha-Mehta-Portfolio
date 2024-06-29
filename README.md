@@ -59,6 +59,11 @@ My journey in Information Technology has led me to develop a passion for cyberse
     <img src="https://img.shields.io/badge/-Amazon%20S3-FF9900?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white"/>
 </div>
 
+## Bootcamps
+<div>
+<img src="https://img.shields.io/badge/-Cybersecurity101%20Full%20Stack%20Academy-FFFFFF?&style=for-the-badge&logo=FullStackAcademy&logoColor=white" />
+</div>
+
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
