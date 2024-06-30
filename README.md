@@ -80,7 +80,7 @@ My journey in Information Technology has led me to develop a passion for cyberse
 -  Web Scraping Project
 -  Security Tools Automation
 -  Log Analysis - Splunk
--  Email Phishing Implementation
+-  Phishing Email Detection System
 
 
 
