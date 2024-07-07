@@ -24,6 +24,7 @@ My journey in Information Technology has led me to develop a passion for cyberse
 | Security Tools Automation                                                                                     |<a href="https://github.com/shikha1149myprojects/Security-Tools-Automation">Github Repo</a>|
 | Log Analysis Using Splunk, Incident Response                                                                  |<a href="https://github.com/shikha1149myprojects/LogAnalysis-IncidentResponse">Github Repo</a>|
 | Email Phishing Detection Implementation                                                                  |<a href="https://github.com/shikha1149myprojects/Email-Phishing-Detection">Github Repo</a>|
+| Website Security Auditing                                                                 |<a href="https://github.com/shikha1149myprojects/Website-Security-Auditing">Github Repo</a>|
 | Security Auditing based on documentation                                                                |<a href="https://github.com/shikha1149myprojects/SecurityAudit">Github Repo</a>|
 
 ## Tools
@@ -83,6 +84,7 @@ My journey in Information Technology has led me to develop a passion for cyberse
 -  Security Tools Automation
 -  Log Analysis - Splunk
 -  Phishing Email Detection System
+-  Website Security Auditing
 -  Security Auditing of a company
 
 
