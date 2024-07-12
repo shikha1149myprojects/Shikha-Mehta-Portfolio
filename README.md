@@ -27,6 +27,8 @@ My journey in Information Technology has led me to develop a passion for cyberse
 | Website Security Auditing                                                                 |<a href="https://github.com/shikha1149myprojects/Website-Security-Auditing">Github Repo</a>|
 | Security Auditing based on documentation                                                                |<a href="https://github.com/shikha1149myprojects/SecurityAudit">Github Repo</a>|
 | Technical Guide for Cybersecurity Tool Comparison                                                                |<a href="https://github.com/shikha1149myprojects/Tool-Comparison-Technical-Guide">Github Repo</a>|
+| Building a simple Keylogger                                                                |<a href="https://github.com/shikha1149myprojects/Simple-Keylogger">Github Repo</a>|
+| Building a simple Packet Sniffer                                                                |<a href="https://github.com/shikha1149myprojects/Simple-Packet-Sniffer">Github Repo</a>|
 
 ## Tools
 
@@ -88,6 +90,8 @@ My journey in Information Technology has led me to develop a passion for cyberse
 -  Website Security Auditing
 -  Security Auditing of a company
 -  Cybersecurity Tool Comparison Technical Guide
+-  Simple Keylogger
+-  Simple Packet Sniffer
 
 
 
