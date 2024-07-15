@@ -29,6 +29,7 @@ My journey in Information Technology has led me to develop a passion for cyberse
 | Technical Guide for Cybersecurity Tool Comparison                                                                |<a href="https://github.com/shikha1149myprojects/Tool-Comparison-Technical-Guide">Github Repo</a>|
 | Building a simple Keylogger                                                                |<a href="https://github.com/shikha1149myprojects/Simple-Keylogger">Github Repo</a>|
 | Building a simple Packet Sniffer                                                                |<a href="https://github.com/shikha1149myprojects/Simple-Packet-Sniffer">Github Repo</a>|
+| Ransomware Data Recovery Procedure                                                                |<a href="https://github.com/shikha1149myprojects/Lost-Data-Retrieval">Github Repo</a>|
 
 ## Tools
 
