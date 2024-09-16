@@ -96,14 +96,3 @@ My journey in Information Technology has led me to develop a passion for cyberse
 -  Simple Keylogger
 -  Simple Packet Sniffer
 
-
-
-## Cybersecurity Events Attended
-
-| Name                                                | Date                       |
-|-----------------------------------------------------|----------------------------|
-| AWSome Day Online Conference                        | July 11, 2024              |
-| AI Cybersecurity Summit                             | September 8-9, 2024        |
-| CloudSec Next Summit                                | Sept 30- Oct 1, 2024       |
-| Pen Test HackFest Summit                            | October 28-29, 2024        |
-
