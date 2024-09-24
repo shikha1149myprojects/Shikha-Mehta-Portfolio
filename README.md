@@ -7,7 +7,7 @@ I am actively seeking job opportunities in Cybersecurity.
 
 ## Objective
 
-My journey in Information Technology has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to work in roles like SOC Analyst, Data Security, Product Security, or Penetration Testing
+My journey in Information Technology has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to work in roles like SOC Analyst, Data Security, Penetration Testing, or Tech Support
 
 ## Skills
 
