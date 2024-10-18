@@ -31,13 +31,21 @@ My journey in Information Technology and Security has led me to develop a passio
 | Building a simple Packet Sniffer                                                                |<a href="https://github.com/shikha1149myprojects/Simple-Packet-Sniffer">Github Repo</a>|
 | Ransomware Data Recovery Procedure                                                                |<a href="https://github.com/shikha1149myprojects/Lost-Data-Retrieval">Github Repo</a>|
 
+## Certifications
+<div>
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Splunk-FFFFFF?&style=for-the-badge&logo=AWS&logoColor=white" />
+<img src="https://img.shields.io/badge/-CommonWealth%20Bank%20Introduction%20To%20Cybersecurity%20Job%20Simulation-FF9900?&style=for-the-badge&logo=CommonwealthBank&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/-BECOME%20AN%20ETHICAL%20HACKER-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</div>
+
 ## Tools
 
 ### Operating Systems
 <div>
     <img src="https://img.shields.io/badge/-Linux-777BB4?&style=for-the-badge&logo=Linux&logoColor=white" />
     <img src="https://img.shields.io/badge/-Mac%20OS-1679A7?&style=for-the-badge&logo=MacOS&logoColor=white" />
-     <img src="https://img.shields.io/badge/-Windows-000000?&style=for-the-badge&logo=Windows&logoColor=white" />
+     <img src="https://img.shields.io/badge/-Windows-013220?&style=for-the-badge&logo=Windows&logoColor=white" />
 </div>
 
 ### Network
@@ -79,13 +87,6 @@ My journey in Information Technology and Security has led me to develop a passio
 <img src="https://img.shields.io/badge/-Cybersecurity101%20Full%20Stack%20Academy-FFFFFF?&style=for-the-badge&logo=FullStackAcademy&logoColor=white" />
 </div>
 
-## Certifications
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Splunk-FFFFFF?&style=for-the-badge&logo=AWS&logoColor=white" />
-<img src="https://img.shields.io/badge/-CommonWealth%20Bank%20Introduction%20To%20Cybersecurity%20Job%20Simulation-FF9900?&style=for-the-badge&logo=CommonwealthBank&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/-BECOME%20AN%20ETHICAL%20HACKER-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</div>
 
 ## Projects
 - Port Swigger Labs
