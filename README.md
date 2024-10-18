@@ -33,6 +33,13 @@ My journey in Information Technology has led me to develop a passion for Cyberse
 
 ## Tools
 
+### Operating Systems
+<div>
+    <img src="https://img.shields.io/badge/-Linux-777BB4?&style=for-the-badge&logo=Linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Mac%20OS-1679A7?&style=for-the-badge&logo=MacOS&logoColor=white" />
+     <img src="https://img.shields.io/badge/-Windows-000000?&style=for-the-badge&logo=Windows&logoColor=white" />
+</div>
+
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
@@ -54,6 +61,7 @@ My journey in Information Technology has led me to develop a passion for Cyberse
 <div>
     <img src="https://img.shields.io/badge/-John%20The%20Ripper-777BB4?&style=for-the-badge&logo=John%20The%20Ripper&logoColor=white" />
     <img src="https://img.shields.io/badge/-Hydra-1679A7?&style=for-the-badge&logo=Hydra&logoColor=white" />
+     <img src="https://img.shields.io/badge/-Hashcat-FFC0CB?&style=for-the-badge&logo=Hashcat&logoColor=white" />
 </div>
 
 ### SIEM
