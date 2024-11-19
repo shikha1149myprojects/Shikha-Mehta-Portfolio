@@ -14,25 +14,24 @@ My journey in Information Technology and Security has led me to develop a passio
 
 ## Skills
 
-| Skill                                                                                                                                                     | Associated Project                                                                      |
-|-----------------------------------------------|----------------------------|
-| SQL Injection, File Uploading Vulnerabilities, Directory Traversal Attacks, Command Injections                            | <a href="https://github.com/shikha1149myprojects/Penetration-Testing">Github Repo</a>|
-| Compliance Assessment, Documentation, Security Standards                                                                     | <a href="https://github.com/shikha1149myprojects/CMMC-Level1-Assessment">Github Repo</a>|
-| Ethical Hacking, Server Penetration Testing, Vulnerability Identification                                                       | <a href="https://github.com/shikha1149myprojects/Capture-The-Flag">Github Repo</a>|
-| IAM Policies, Access Controls, Vulnerability Assessment, Network Security, Disaster Recovery Planning      | <a href="https://github.com/shikha1149myprojects/Securing-a-Cloud-based-Healthcare-Application">Github Repo</a>|
-| Infrastructure Design, Security Methodologies, Architectural Diagramming                         | <a href="https://github.com/shikha1149myprojects/Architectural-Design-and-Overview-of-Proposed-Healthcare-Application-Platform">Github Repo</a>|
-| Real-life Web Application Security Assessment: Vulnerability Assessment, Proof of Concepts (PoCs), Security Report Writing                                | <a href="https://github.com/shikha1149myprojects/Ethical-Hacking-Training-Project">Github Repo</a>||
-| OSINT Reconnaisance                                                                                    |<a href="https://github.com/shikha1149myprojects/OSINT-Recon">Github Repo</a>|
-| Web-Scraping                                                                                     |<a href="https://github.com/shikha1149myprojects/Web-Scraping-Project">Github Repo</a>|
-| Security Tools Automation                                                                                     |<a href="https://github.com/shikha1149myprojects/Security-Tools-Automation">Github Repo</a>|
-| Log Analysis Using Splunk, Incident Response                                                                  |<a href="https://github.com/shikha1149myprojects/LogAnalysis-IncidentResponse">Github Repo</a>|
-| Email Phishing Detection Implementation                                                                  |<a href="https://github.com/shikha1149myprojects/Email-Phishing-Detection">Github Repo</a>|
-| Website Security Auditing                                                                 |<a href="https://github.com/shikha1149myprojects/Website-Security-Auditing">Github Repo</a>|
-| Security Auditing based on documentation                                                                |<a href="https://github.com/shikha1149myprojects/SecurityAudit">Github Repo</a>|
-| Technical Guide for Cybersecurity Tool Comparison                                                                |<a href="https://github.com/shikha1149myprojects/Tool-Comparison-Technical-Guide">Github Repo</a>|
-| Building a simple Keylogger                                                                |<a href="https://github.com/shikha1149myprojects/Simple-Keylogger">Github Repo</a>|
-| Building a simple Packet Sniffer                                                                |<a href="https://github.com/shikha1149myprojects/Simple-Packet-Sniffer">Github Repo</a>|
-| Ransomware Data Recovery Procedure                                                                |<a href="https://github.com/shikha1149myprojects/Lost-Data-Retrieval">Github Repo</a>|
+- SQL Injection, File Uploading Vulnerabilities, Directory Traversal Attacks, Command Injections
+- Compliance Assessment, Documentation, Security Standards
+- Ethical Hacking, Server Penetration Testing, Vulnerability Identification
+- IAM Policies, Access Controls, Vulnerability Assessment, Network Security, Disaster Recovery Planning
+- Infrastructure Design, Security Methodologies, Architectural Diagramming
+- Real-life Web Application Security Assessment: Vulnerability Assessment, Proof of Concepts (PoCs), Security Report Writing
+- OSINT Reconnaisance
+- Web-Scraping
+- Security Tools Automation
+- Log Analysis Using Splunk, Incident Response
+- Email Phishing Detection
+- Website Security Auditing
+- Security Auditing based on documentation
+- Technical Guide for Cybersecurity Tool Comparison
+- Building a simple Keylogger
+- Building a simple Packet Sniffer
+- Ransomware Data Recovery Procedure
+  
 
 ## Certifications
 <div>
@@ -93,19 +92,20 @@ My journey in Information Technology and Security has led me to develop a passio
 
 ## Projects
 - Port Swigger Labs
-- Penetration Testing (DVWA App)
-- CMMC 2.0 Level 1 Assessment
-- Capture The Flag Project
--  Securing a Cloud-based Healthcare Application
--  Architectural Design of Healthcare Application Platform
--  OSINT Recon Report
--  Web Scraping Project
--  Security Tools Automation
--  Log Analysis - Splunk
--  Phishing Email Detection System
--  Website Security Auditing
--  Security Auditing of a company
--  Cybersecurity Tool Comparison Technical Guide
--  Simple Keylogger
--  Simple Packet Sniffer
+- <a href="https://github.com/shikha1149myprojects/Penetration-Testing">Penetration Testing (DVWA App)</a>
+- <a href="https://github.com/shikha1149myprojects/CMMC-Level1-Assessment">CMMC 2.0 Level 1 Assessment</a>
+- <a href="https://github.com/shikha1149myprojects/Capture-The-Flag">Capture The Flag Project</a>
+- <a href="https://github.com/shikha1149myprojects/Securing-a-Cloud-based-Healthcare-Application">Securing a Cloud-based Healthcare Application</a>
+- <a href="https://github.com/shikha1149myprojects/Architectural-Design-and-Overview-of-Proposed-Healthcare-Application-Platform">Architectural Design of Healthcare Application Platform</a>
+- <a href="https://github.com/shikha1149myprojects/OSINT-Recon">OSINT Recon Report</a>
+- <a href="https://github.com/shikha1149myprojects/Web-Scraping-Project">Web Scraping Project</a>
+- <a href="https://github.com/shikha1149myprojects/Security-Tools-Automation">Security Tools Automation</a>
+- <a href="https://github.com/shikha1149myprojects/LogAnalysis-IncidentResponse">Log Analysis - Splunk</a>
+- <a href="https://github.com/shikha1149myprojects/Email-Phishing-Detection">Phishing Email Detection System</a>
+- <a href="https://github.com/shikha1149myprojects/Website-Security-Auditing">Website Security Auditing</a>
+- <a href="https://github.com/shikha1149myprojects/SecurityAudit">Security Auditing of a company</a>
+- <a href="https://github.com/shikha1149myprojects/Tool-Comparison-Technical-Guide">Cybersecurity Tool Comparison Technical Guide</a>
+- <a href="https://github.com/shikha1149myprojects/Simple-Keylogger">Simple Keylogger</a>
+- <a href="https://github.com/shikha1149myprojects/Simple-Packet-Sniffer">Simple Packet Sniffer</a>
+- <a href="https://github.com/shikha1149myprojects/Lost-Data-Retrieval">Ransomeware Data Recovery Procedure</a>
 
