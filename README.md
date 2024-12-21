@@ -1,7 +1,7 @@
 # Hello, I'm Shikha Mehta
 <a href="https://linkedin.com/in/shikha-mehta-8b49a7203"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Top 5% TryHackMe: 
+Top 4% TryHackMe: 
 
 [View my TryHackMe profile badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3614804)
 
