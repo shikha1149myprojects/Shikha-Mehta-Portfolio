@@ -10,7 +10,7 @@ I am actively seeking job opportunities in Cybersecurity.
 
 ## Objective
 
-My journey in Information Technology and Security has led me to develop a passion for Cybersecurity, and I am now eager to transition into this field, specifically aiming to work in roles like SOC Analyst, Penetration Testing, System Administrator, or Technical Support.
+My journey in Information Technology and Security has led me to develop a passion for Cybersecurity, and I am now eager to transition into this field, specifically aiming to work in roles of Security Engineering, Information Security Engineering, or Security Analysis.
 
 ## Skills
 
@@ -36,9 +36,11 @@ My journey in Information Technology and Security has led me to develop a passio
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-DevSecOps-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/-Splunk-FFFFFF?&style=for-the-badge&logo=AWS&logoColor=white" />
 <img src="https://img.shields.io/badge/-CommonWealth%20Bank%20Job%20Simulation-FF9900?&style=for-the-badge&logo=CommonwealthBank&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/-BECOME%20AN%20ETHICAL%20HACKER-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/-The%20Bits%20&%20Bytes%20Of%20Computer%20Networking-777BB4?&style=for-the-badge&logo=Google&logoColor=white" /></a>
 </div>
 
 ## Tools
@@ -76,12 +78,14 @@ My journey in Information Technology and Security has led me to develop a passio
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-EF3B2D?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
 
 ### Cloud
 <div>
-    <img src="https://img.shields.io/badge/-Amazon%20S3-FF9900?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-AWS-1679A7?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Azure-FFC0CB?&style=for-the-badge&logo=Microsoft&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Google%20Cloud-777BB4?&style=for-the-badge&logo=Google&logoColor=white"/>
 </div>
 
 ## Bootcamps
