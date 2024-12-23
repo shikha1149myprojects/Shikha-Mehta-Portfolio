@@ -31,6 +31,7 @@ My journey in Information Technology and Security has led me to develop a passio
 - Building a simple Keylogger
 - Building a simple Packet Sniffer
 - Ransomware Data Recovery Procedure
+- Penetration Testing Report Writing
   
 
 ## Certifications
@@ -108,6 +109,7 @@ My journey in Information Technology and Security has led me to develop a passio
 - <a href="https://github.com/shikha1149myprojects/Email-Phishing-Detection">Phishing Email Detection System</a>
 - <a href="https://github.com/shikha1149myprojects/Website-Security-Auditing">Website Security Auditing</a>
 - <a href="https://github.com/shikha1149myprojects/SecurityAudit">Security Auditing of a company</a>
+- <a href="https://github.com/shikha1149myprojects/Penetration-Testing-Report">Penetration Testing Final Report Writing</a>
 - <a href="https://github.com/shikha1149myprojects/Tool-Comparison-Technical-Guide">Cybersecurity Tool Comparison Technical Guide</a>
 - <a href="https://github.com/shikha1149myprojects/Simple-Keylogger">Simple Keylogger</a>
 - <a href="https://github.com/shikha1149myprojects/Simple-Packet-Sniffer">Simple Packet Sniffer</a>
