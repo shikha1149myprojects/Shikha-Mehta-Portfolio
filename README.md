@@ -10,7 +10,7 @@ I am actively seeking job opportunities in Cybersecurity.
 
 ## Objective
 
-My journey in Information Technology and Security has led me to develop a passion for Cybersecurity, and I am now eager to transition into this field, specifically aiming to work in roles of Security Engineering, Information Security Engineering, or Security Analysis.
+My journey in Information Technology and Security has led me to develop a passion for Cybersecurity, and I am now eager to transition into this field, specifically aiming to work in roles of Security Engineering, Cloud Security Engineering, Information Security Engineering, or DevSecOps Engineering.
 
 ## Skills
 
