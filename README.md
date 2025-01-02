@@ -40,8 +40,8 @@ My journey in Information Technology and Security has led me to develop a passio
 <img src="https://img.shields.io/badge/-Splunk-FFFFFF?&style=for-the-badge&logo=AWS&logoColor=white" />
 <img src="https://img.shields.io/badge/-CommonWealth%20Bank%20Job%20Simulation-FF9900?&style=for-the-badge&logo=CommonwealthBank&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/-BECOME%20AN%20ETHICAL%20HACKER-0072b1?&style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/-DevSecOps-013220?&style=for-the-badge&logo=TryHackMe&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/-The%20Bits%20&%20Bytes%20Of%20Computer%20Networking-777BB4?&style=for-the-badge&logo=Google&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/-DevSecOps-f7dc6f?&style=for-the-badge&logo=TryHackMe&logoColor=black" /></a>
+<img src="https://img.shields.io/badge/-The%20Bits%20&%20Bytes%20Of%20Computer%20Networking-af7ac5?&style=for-the-badge&logo=Google&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/-Security%20Engineer-EF3B2D?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
 </div>
 
@@ -51,7 +51,18 @@ My journey in Information Technology and Security has led me to develop a passio
 <div>
     <img src="https://img.shields.io/badge/-Linux-777BB4?&style=for-the-badge&logo=Linux&logoColor=white" />
     <img src="https://img.shields.io/badge/-Mac%20OS-1679A7?&style=for-the-badge&logo=MacOS&logoColor=white" />
-     <img src="https://img.shields.io/badge/-Windows-013220?&style=for-the-badge&logo=Windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Windows-76d7c4?&style=for-the-badge&logo=Microsoft%20Windows&logoColor=white" />
+</div>
+
+### DevSecOps & Automation
+<div>
+  <img src="https://img.shields.io/badge/-CI/CD%20Pipelines-f5b041?&style=for-the-badge&logo=CI/CD%20Pipelines&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Jenkins-8e44ad?&style=for-the-badge&logo=Jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Github-27ae60?&style=for-the-badge&logo=Github&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Kubernetes-3498db?&style=for-the-badge&logo=Kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Terraform-76d7c4?&style=for-the-badge&logo=Terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/-IaC-f4d03f?&style=for-the-badge&logo=IaC&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Docker-e67e22?&style=for-the-badge&logo=Docker&logoColor=white" />
 </div>
 
 ### Network
@@ -63,31 +74,26 @@ My journey in Information Technology and Security has led me to develop a passio
     <img src="https://img.shields.io/badge/-NetCat-EF3B2D?&style=for-the-badge&logo=NetCat&logoColor=white" />
     <img src="https://img.shields.io/badge/-Aircrack%20ng-FF9900?&style=for-the-badge&logo=Aircrack%20ng&logoColor=white" />
     <img src="https://img.shields.io/badge/-Nessus-FFFFFF?&style=for-the-badge&logo=Nessus&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Snort-FFC0CB?&style=for-the-badge&logo=Snort&logoColor=white" />
-</div>
-
-### Web Application
-<div>
-    <img src="https://img.shields.io/badge/-Nikto-FF9900?&style=for-the-badge&logo=Nikto&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Snort-8e44ad?&style=for-the-badge&logo=Snort&logoColor=white" />
 </div>
 
 ### Password Cracking Tools
 <div>
     <img src="https://img.shields.io/badge/-John%20The%20Ripper-777BB4?&style=for-the-badge&logo=John%20The%20Ripper&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Hydra-1679A7?&style=for-the-badge&logo=Hydra&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Hydra-3498db?&style=for-the-badge&logo=Hydra&logoColor=white" />
      <img src="https://img.shields.io/badge/-Hashcat-FFC0CB?&style=for-the-badge&logo=Hashcat&logoColor=white" />
 </div>
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Splunk-EF3B2D?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-27ae60?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
 
 ### Cloud
 <div>
     <img src="https://img.shields.io/badge/-AWS-1679A7?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Azure-FFC0CB?&style=for-the-badge&logo=Microsoft&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Google%20Cloud-777BB4?&style=for-the-badge&logo=Google&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Google%20Cloud-8e44ad?&style=for-the-badge&logo=Google&logoColor=white"/>
 </div>
 
 ## Bootcamps
