@@ -129,4 +129,5 @@ My journey in Information Technology and Security has led me to develop a passio
 - <a href="https://www.linkedin.com/pulse/soc-analysts-guide-malware-analysis-part-1-dynamic-shikha-mehta-zgqpe/?trackingId=CimH7aIyUZDrTqcusWb5DA%3D%3D">An SOC Analyst's Guide to Malware Analysis - Part 1 (Dynamic Malware Analysis)</a>
 - <a href="https://www.linkedin.com/pulse/soc-analysts-guide-malware-analysis-part-2-traffic-wireshark-mehta-u5ure/?trackingId=%2FI6U2O%2BX3tYBx8KCkm90WQ%3D%3D">An SOC Analyst's Guide to Malware Analysis - Part 2 (Malware Traffic Analysis with Wireshark)</a>
 - <a href="https://www.linkedin.com/pulse/soc-analysts-guide-malware-analysis-part-3-malicious-shikha-mehta-ya8ke/?trackingId=JIvnxKCSoUh2CO14eavkTQ%3D%3D">An SOC Analyst's Guide to Malware Analysis - Part 3 (Malicious Document Analysis)</a>
+- <a href="https://www.linkedin.com/pulse/kubernetes-best-security-practices-shikha-mehta-1c8ee/?trackingId=ZffMOwmpXSMgNsKp97HkQA%3D%3D">Kubernetes Best Security Practices</a>
 
