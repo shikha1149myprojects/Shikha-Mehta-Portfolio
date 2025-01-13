@@ -14,6 +14,7 @@ My journey in Information Technology and Security has led me to develop a passio
 
 ## Skills
 
+- DevSecOps Practices, Cloud Computing, Infrastructure as Code (IaC), Monitoring and Observability, Software Development, Networking and Security, System Administration, Version Control and Collaboration, Problem Solving and Troubleshooting 
 - SQL Injection, File Uploading Vulnerabilities, Directory Traversal Attacks, Command Injections
 - Compliance Assessment, Documentation, Security Standards
 - Ethical Hacking, Server Penetration Testing, Vulnerability Identification
