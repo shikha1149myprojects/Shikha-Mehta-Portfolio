@@ -64,6 +64,10 @@ My journey in Information Technology and Security has led me to develop a passio
   <img src="https://img.shields.io/badge/-Terraform-76d7c4?&style=for-the-badge&logo=Terraform&logoColor=white" />
   <img src="https://img.shields.io/badge/-IaC-f4d03f?&style=for-the-badge&logo=IaC&logoColor=white" />
   <img src="https://img.shields.io/badge/-Docker-e67e22?&style=for-the-badge&logo=Docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SonarQube-8e44ad?&style=for-the-badge&logo=SonarSource&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Argo%20CD-FFC0CB?&style=for-the-badge&logo=Argo%CD&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Trivy-27ae60?&style=for-the-badge&logo=Trivy&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-e67e22?&style=for-the-badge&logo=Git&logoColor=white" />
 </div>
 
 ### Network
@@ -104,6 +108,7 @@ My journey in Information Technology and Security has led me to develop a passio
 
 
 ## Projects
+- <a href="https://github.com/shikha1149myprojects/Three-Tier-K8s-DevSecOps">Three-Tier-K8s-DevSecOps</a>
 - Port Swigger Labs
 - <a href="https://github.com/shikha1149myprojects/Penetration-Testing">Penetration Testing (DVWA App)</a>
 - <a href="https://github.com/shikha1149myprojects/CMMC-Level1-Assessment">CMMC 2.0 Level 1 Assessment</a>
