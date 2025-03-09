@@ -3,7 +3,7 @@
 <a href="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3614804"><img src="https://img.shields.io/badge/-TryHackMe-EF3B2D?&style=for-the-badge&logo=TryHackMe&logoColor=white" /></a>
 <a href="https://vulnerable.codes/user/KingofPiratez"><img src="https://img.shields.io/badge/-Vulnerable%20Codes%20Profile-27ae60?&style=for-the-badge&logo=Vulnerable%20Codes%20Profile&logoColor=white" /></a>
 
-I am currently pursuing a Master's in Cybersecurity Engineering at the University of Maryland, expected to graduate in May 2025. With a background in Information Technology, I bring experience as a Cybersecurity Analyst from Pristine InfoSolutions Pvt. Ltd., Security Analyst at SwiftSafe Cybersecurity Solutions, and Web Development from Jio Platforms Limited, Reliance. 
+I am currently pursuing a Master's in Cybersecurity Engineering at the University of Maryland, expected to graduate in May 2025. With a background in Information Technology, I bring experience as a Security Analyst as well as an Android Web Developer. 
 I am actively seeking job opportunities in Cybersecurity.
 
 ## Objective
