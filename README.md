@@ -3,34 +3,62 @@
 <a href="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3614804"><img src="https://img.shields.io/badge/-TryHackMe-EF3B2D?&style=for-the-badge&logo=TryHackMe&logoColor=white" /></a>
 <a href="https://vulnerable.codes/user/KingofPiratez"><img src="https://img.shields.io/badge/-Vulnerable%20Codes%20Profile-27ae60?&style=for-the-badge&logo=Vulnerable%20Codes%20Profile&logoColor=white" /></a>
 
-I am currently pursuing a Master's in Cybersecurity Engineering at the University of Maryland, expected to graduate in May 2025. With a background in Information Technology, I bring experience as a Security Analyst as well as an Android Web Developer. 
-I am actively seeking job opportunities in Cybersecurity.
+I am currently pursuing a Master's in Cybersecurity Engineering at the University of Maryland, expected to graduate in May 2025. With a background in Information Technology and Cybersecurity, I bring experience as a Security Analyst as well as an Android Web Developer.  I am actively seeking job opportunities in Cybersecurity.
 
 ## Objective
 
-My journey in Information Technology and Security has led me to develop a passion for Cybersecurity, and I am now eager to transition into this field, specifically aiming to work in roles of Security Engineering, Cloud Security Engineering, Information Security Engineering, or DevSecOps Engineering.
+My journey in Information Technology and Security has led me to develop a passion for Cybersecurity, and I am now eager to transition into this field, specifically aiming to work in roles of Security Engineering, Cloud Security Engineering, Information Security Engineering, Network Security Engineering or DevSecOps Engineering.
+
+## Projects
+- <a href="https://github.com/shikha1149myprojects/Three-Tier-K8s-DevSecOps">Three-Tier-K8s-DevSecOps</a>
+- <a href="https://github.com/shikha1149myprojects/Penetration-Testing">Penetration Testing (DVWA App)</a>
+- <a href="https://github.com/shikha1149myprojects/CMMC-Level1-Assessment">CMMC 2.0 Level 1 Assessment</a>
+- <a href="https://github.com/shikha1149myprojects/Capture-The-Flag">Capture The Flag Project</a>
+- <a href="https://github.com/shikha1149myprojects/Securing-a-Cloud-based-Healthcare-Application">Securing a Cloud-based Healthcare Application</a>
+- <a href="https://github.com/shikha1149myprojects/Architectural-Design-and-Overview-of-Proposed-Healthcare-Application-Platform">Architectural Design of Healthcare Application Platform</a>
+- <a href="https://github.com/shikha1149myprojects/OSINT-Recon">OSINT Recon Report</a>
+- <a href="https://github.com/shikha1149myprojects/Web-Scraping-Project">Web Scraping Project</a>
+- <a href="https://github.com/shikha1149myprojects/Security-Tools-Automation">Security Tools Automation</a>
+- <a href="https://github.com/shikha1149myprojects/LogAnalysis-IncidentResponse">Log Analysis - Splunk</a>
+- <a href="https://github.com/shikha1149myprojects/Email-Phishing-Detection">Phishing Email Detection System</a>
+- <a href="https://github.com/shikha1149myprojects/Website-Security-Auditing">Website Security Auditing</a>
+- <a href="https://github.com/shikha1149myprojects/SecurityAudit">Security Auditing of a company</a>
+- <a href="https://github.com/shikha1149myprojects/Penetration-Testing-Report">Penetration Testing Final Report Writing</a>
+- <a href="https://github.com/shikha1149myprojects/Tool-Comparison-Technical-Guide">Cybersecurity Tool Comparison Technical Guide</a>
+- <a href="https://github.com/shikha1149myprojects/Simple-Keylogger">Simple Keylogger</a>
+- <a href="https://github.com/shikha1149myprojects/Simple-Packet-Sniffer">Simple Packet Sniffer</a>
+- <a href="https://github.com/shikha1149myprojects/Lost-Data-Retrieval">Ransomeware Data Recovery Procedure</a>
+- Port Swigger Labs
+
+
+## My LinkedIn Blogs
+
+- <a href="https://www.linkedin.com/pulse/mastering-code-reviews-comprehensive-checklist-shikha-mehta-a2wse/?trackingId=%2BUXg4h3fJ0nfCCHOi%2B0X1g%3D%3D">Mastering Code Reviews with a Comprehensive Checklist</a>
+- <a href="https://www.linkedin.com/pulse/soc-analysts-guide-malware-analysis-part-1-dynamic-shikha-mehta-zgqpe/?trackingId=CimH7aIyUZDrTqcusWb5DA%3D%3D">An SOC Analyst's Guide to Malware Analysis - Part 1 (Dynamic Malware Analysis)</a>
+- <a href="https://www.linkedin.com/pulse/soc-analysts-guide-malware-analysis-part-2-traffic-wireshark-mehta-u5ure/?trackingId=%2FI6U2O%2BX3tYBx8KCkm90WQ%3D%3D">An SOC Analyst's Guide to Malware Analysis - Part 2 (Malware Traffic Analysis with Wireshark)</a>
+- <a href="https://www.linkedin.com/pulse/soc-analysts-guide-malware-analysis-part-3-malicious-shikha-mehta-ya8ke/?trackingId=JIvnxKCSoUh2CO14eavkTQ%3D%3D">An SOC Analyst's Guide to Malware Analysis - Part 3 (Malicious Document Analysis)</a>
+- <a href="https://www.linkedin.com/pulse/kubernetes-best-security-practices-shikha-mehta-1c8ee/?trackingId=ZffMOwmpXSMgNsKp97HkQA%3D%3D">Kubernetes Best Security Practices</a>
+
 
 ## Skills
 
-- DevSecOps Practices, Cloud Computing, Infrastructure as Code (IaC), Monitoring and Observability, Software Development, Networking and Security, System Administration, Version Control and Collaboration, Problem Solving and Troubleshooting 
-- SQL Injection, File Uploading Vulnerabilities, Directory Traversal Attacks, Command Injections
-- Compliance Assessment, Documentation, Security Standards
-- Ethical Hacking, Server Penetration Testing, Vulnerability Identification
-- IAM Policies, Access Controls, Vulnerability Assessment, Network Security, Disaster Recovery Planning
-- Infrastructure Design, Security Methodologies, Architectural Diagramming
-- Real-life Web Application Security Assessment: Vulnerability Assessment, Proof of Concepts (PoCs), Security Report Writing
-- OSINT Reconnaisance
-- Web-Scraping
-- Security Tools Automation
-- Log Analysis Using Splunk, Incident Response
-- Email Phishing Detection
-- Website Security Auditing
-- Security Auditing based on documentation
-- Technical Guide for Cybersecurity Tool Comparison
-- Building a simple Keylogger
-- Building a simple Packet Sniffer
-- Ransomware Data Recovery Procedure
-- Penetration Testing Report Writing
+- **Programming & Scripting**: Python, Java, C, Kotlin, Go, JavaScript, Bash, PowerShell
+- **Code Development and Collaboration**: VS Code, GitHub, GitLab
+- **Security Tools**: Burp Suite, Nmap, Metasploit, Nessus, Wireshark
+- **Security & Ethical Hacking Platforms**: OWASP, TryHackMe
+- **Operating Systems**: Windows, Linux, MacOS
+- **AI & Machine Learning**: Machine Learning (ML), Natural Language Processing (NLP), Artificial Intelligence (AI)
+- **Cloud & Networking**: AWS, Google Cloud, Azure, Cloud Security, Network Security, TCP/IP, Firewalls, IDS/IPS
+- **Offensive Security**: Penetration Testing, Ethical Hacking
+- **Defensive Security**: Incident Response, Security Auditing
+- **Vulnerability & Risk Management**: Vulnerability Management, IAM
+- **Digital Forensics & Threat Analysis**: Digital Forensics (DFIR), Malware Analysis
+- **Threat Hunting**: MITRE ATT&CK, IOCs, IOAs
+- **CI/CD & Automation**: Jenkins, Docker, Kubernetes, Terraform, GitHub Actions, Bitbucket Pipelines, ArgoCD
+- **Infrastructure as Code**: Terraform, Ansible, Chef
+- **Security Monitoring Tools**: SonarQube, Prometheus, Grafana
+- **Secure Code Testing & Analysis**: Wireshark, Metasploit, SonarQube, Automated Security Tools
+- **SIEM Platforms**: Splunk, Microsoft Sentinel
   
 
 ## Certifications
@@ -105,33 +133,4 @@ My journey in Information Technology and Security has led me to develop a passio
 </div>
 
 
-## Projects
-- <a href="https://github.com/shikha1149myprojects/Three-Tier-K8s-DevSecOps">Three-Tier-K8s-DevSecOps</a>
-- Port Swigger Labs
-- <a href="https://github.com/shikha1149myprojects/Penetration-Testing">Penetration Testing (DVWA App)</a>
-- <a href="https://github.com/shikha1149myprojects/CMMC-Level1-Assessment">CMMC 2.0 Level 1 Assessment</a>
-- <a href="https://github.com/shikha1149myprojects/Capture-The-Flag">Capture The Flag Project</a>
-- <a href="https://github.com/shikha1149myprojects/Securing-a-Cloud-based-Healthcare-Application">Securing a Cloud-based Healthcare Application</a>
-- <a href="https://github.com/shikha1149myprojects/Architectural-Design-and-Overview-of-Proposed-Healthcare-Application-Platform">Architectural Design of Healthcare Application Platform</a>
-- <a href="https://github.com/shikha1149myprojects/OSINT-Recon">OSINT Recon Report</a>
-- <a href="https://github.com/shikha1149myprojects/Web-Scraping-Project">Web Scraping Project</a>
-- <a href="https://github.com/shikha1149myprojects/Security-Tools-Automation">Security Tools Automation</a>
-- <a href="https://github.com/shikha1149myprojects/LogAnalysis-IncidentResponse">Log Analysis - Splunk</a>
-- <a href="https://github.com/shikha1149myprojects/Email-Phishing-Detection">Phishing Email Detection System</a>
-- <a href="https://github.com/shikha1149myprojects/Website-Security-Auditing">Website Security Auditing</a>
-- <a href="https://github.com/shikha1149myprojects/SecurityAudit">Security Auditing of a company</a>
-- <a href="https://github.com/shikha1149myprojects/Penetration-Testing-Report">Penetration Testing Final Report Writing</a>
-- <a href="https://github.com/shikha1149myprojects/Tool-Comparison-Technical-Guide">Cybersecurity Tool Comparison Technical Guide</a>
-- <a href="https://github.com/shikha1149myprojects/Simple-Keylogger">Simple Keylogger</a>
-- <a href="https://github.com/shikha1149myprojects/Simple-Packet-Sniffer">Simple Packet Sniffer</a>
-- <a href="https://github.com/shikha1149myprojects/Lost-Data-Retrieval">Ransomeware Data Recovery Procedure</a>
-
-
-## My LinkedIn Blogs
-
-- <a href="https://www.linkedin.com/pulse/mastering-code-reviews-comprehensive-checklist-shikha-mehta-a2wse/?trackingId=%2BUXg4h3fJ0nfCCHOi%2B0X1g%3D%3D">Mastering Code Reviews with a Comprehensive Checklist</a>
-- <a href="https://www.linkedin.com/pulse/soc-analysts-guide-malware-analysis-part-1-dynamic-shikha-mehta-zgqpe/?trackingId=CimH7aIyUZDrTqcusWb5DA%3D%3D">An SOC Analyst's Guide to Malware Analysis - Part 1 (Dynamic Malware Analysis)</a>
-- <a href="https://www.linkedin.com/pulse/soc-analysts-guide-malware-analysis-part-2-traffic-wireshark-mehta-u5ure/?trackingId=%2FI6U2O%2BX3tYBx8KCkm90WQ%3D%3D">An SOC Analyst's Guide to Malware Analysis - Part 2 (Malware Traffic Analysis with Wireshark)</a>
-- <a href="https://www.linkedin.com/pulse/soc-analysts-guide-malware-analysis-part-3-malicious-shikha-mehta-ya8ke/?trackingId=JIvnxKCSoUh2CO14eavkTQ%3D%3D">An SOC Analyst's Guide to Malware Analysis - Part 3 (Malicious Document Analysis)</a>
-- <a href="https://www.linkedin.com/pulse/kubernetes-best-security-practices-shikha-mehta-1c8ee/?trackingId=ZffMOwmpXSMgNsKp97HkQA%3D%3D">Kubernetes Best Security Practices</a>
 
