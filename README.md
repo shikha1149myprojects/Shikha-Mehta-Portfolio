@@ -10,6 +10,7 @@ I am currently pursuing a Master's in Cybersecurity Engineering at the Universit
 My journey in Information Technology and Security has led me to develop a passion for Cybersecurity, and I am now eager to transition into this field, specifically aiming to work in roles of Security Engineering, Cloud Security Engineering, Information Security Engineering, Network Security Engineering or DevSecOps Engineering.
 
 ## Projects
+- <a href="https://github.com/shikha1149myprojects/Secure-IaC">Secure IaC with AI & Automation</a>
 - <a href="https://github.com/shikha1149myprojects/Three-Tier-K8s-DevSecOps">Three-Tier-K8s-DevSecOps</a>
 - <a href="https://github.com/shikha1149myprojects/Penetration-Testing">Penetration Testing (DVWA App)</a>
 - <a href="https://github.com/shikha1149myprojects/CMMC-Level1-Assessment">CMMC 2.0 Level 1 Assessment</a>
