@@ -2,6 +2,8 @@
 <a href="https://linkedin.com/in/shikha-mehta-8b49a7203"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3614804"><img src="https://img.shields.io/badge/-TryHackMe-EF3B2D?&style=for-the-badge&logo=TryHackMe&logoColor=white" /></a>
 <a href="https://vulnerable.codes/user/KingofPiratez"><img src="https://img.shields.io/badge/-Vulnerable%20Codes%20Profile-27ae60?&style=for-the-badge&logo=Vulnerable%20Codes%20Profile&logoColor=white" /></a>
+<a href="https://cryptohack.org/user/KingofPiratez/"><img src="https://img.shields.io/badge/-CryptoHack%20Profile-e67e22?&style=for-the-badge&logo=CryptoHack&logoColor=white" /></a>
+
 
 I am currently pursuing a Master's in Cybersecurity Engineering at the University of Maryland, expected to graduate in May 2025. With a background in Information Technology and Cybersecurity, I bring experience as a Security Analyst as well as an Android Web Developer.  I am actively seeking job opportunities in Cybersecurity.
 
