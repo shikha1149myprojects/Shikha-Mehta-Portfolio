@@ -4,12 +4,11 @@
 <a href="https://vulnerable.codes/user/KingofPiratez"><img src="https://img.shields.io/badge/-Vulnerable%20Codes%20Profile-27ae60?&style=for-the-badge&logo=Vulnerable%20Codes%20Profile&logoColor=white" /></a>
 <a href="https://cryptohack.org/user/KingofPiratez/"><img src="https://img.shields.io/badge/-CryptoHack%20Profile-e67e22?&style=for-the-badge&logo=CryptoHack&logoColor=white" /></a>
 
-
-I am currently pursuing a Master's in Cybersecurity Engineering at the University of Maryland, expected to graduate in May 2025. With a background in Information Technology and Cybersecurity, I bring experience as a Security Analyst as well as an Android Web Developer.  I am actively seeking job opportunities in Cybersecurity.
+As a recent Cybersecurity Graduate with a Master’s degree from the University of Maryland, I am passionate about Security Engineering, Scripting, and DevSecOps. My Python, Bash, and PowerShell expertise allow me to automate security processes, enhance system hardening, and integrate security into CI/CD pipelines. I have hands-on experience implementing security controls, conducting vulnerability assessments, and securing containerized environments to support modern DevSecOps practices. I am committed to developing scalable and efficient security solutions that align with evolving industry standards.
 
 ## Objective
 
-My journey in Information Technology and Security has led me to develop a passion for Cybersecurity, and I am now eager to transition into this field, specifically aiming to work in roles of Security Engineering, Cloud Security Engineering, Information Security Engineering, Network Security Engineering or DevSecOps Engineering.
+My journey in Information Technology and Security has led me to develop a passion for Cybersecurity, and I am now eager to grow in this field, specifically aiming to work in roles of Security Engineering, Cloud Security Engineering, Information Security Engineering, Network Security Engineering or DevSecOps Engineering.
 
 ## Projects
 - <a href="https://github.com/shikha1149myprojects/Secure-IaC">Secure IaC with AI & Automation</a>
