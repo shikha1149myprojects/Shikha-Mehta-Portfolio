@@ -11,6 +11,7 @@ As a recent Cybersecurity Graduate with a Master’s degree from the University 
 My journey in Information Technology and Security has led me to develop a passion for Cybersecurity, and I am now eager to grow in this field, specifically aiming to work in roles of Security Engineering, Cloud Security Engineering, Information Security Engineering, Network Security Engineering or DevSecOps Engineering.
 
 ## Projects
+- <a href="https://medium.com/@shikha1149mehta/windows-firewall-chronicles-part-1-7181552b0134">Windows Firewall Chronicles: Part 1</a>
 - <a href="https://medium.com/@shikha1149mehta/blackbasta-ttp-simulator-ransomware-tactics-defense-0c43dbe1e9c2">BlackBasta Ransomware TTP Simulator</a>
 - <a href="https://github.com/shikha1149myprojects/Secure-IaC">Secure IaC with AI & Automation</a>
 - <a href="https://github.com/shikha1149myprojects/Three-Tier-K8s-DevSecOps">Three-Tier-K8s-DevSecOps</a>
@@ -36,6 +37,7 @@ My journey in Information Technology and Security has led me to develop a passio
 
 ## My Blogs
 
+- <a href="https://medium.com/@shikha1149mehta/windows-firewall-chronicles-part-1-7181552b0134">Windows Firewall Chronicles: Part 1</a>
 - <a href="https://medium.com/@shikha1149mehta/blackbasta-ttp-simulator-ransomware-tactics-defense-0c43dbe1e9c2">BlackBasta Ransomware TTP Simulator</a>
 - <a href="https://medium.com/@shikha1149mehta/secure-iac-with-ai-automation-441900aec61c">Secure IaC with AI & Automation</a>
 - <a href="https://www.linkedin.com/pulse/kubernetes-best-security-practices-shikha-mehta-1c8ee/?trackingId=ZffMOwmpXSMgNsKp97HkQA%3D%3D">Kubernetes Best Security Practices</a>
