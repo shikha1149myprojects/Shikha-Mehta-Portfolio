@@ -12,6 +12,8 @@ My journey in Information Technology and Security has led me to develop a passio
 
 ## Projects
 - <a href="https://medium.com/@shikha1149mehta/windows-firewall-chronicles-part-1-7181552b0134">Windows Firewall Chronicles: Part 1</a>
+- <a href="https://medium.com/@shikha1149mehta/windows-firewall-chronicles-part-2-audit-report-remediate-hardening-windows-defender-rules-bf4e18f4b002">Windows Firewall Chronicles: Part 2</a>
+- <a href="https://medium.com/@shikha1149mehta/windows-firewall-chronicles-part-3-firewall-under-fire-testing-rules-in-a-virtual-attack-lab-42069f8b151a">Windows Firewall Chronicles: Part 3</a>
 - <a href="https://medium.com/@shikha1149mehta/blackbasta-ttp-simulator-ransomware-tactics-defense-0c43dbe1e9c2">BlackBasta Ransomware TTP Simulator</a>
 - <a href="https://github.com/shikha1149myprojects/Secure-IaC">Secure IaC with AI & Automation</a>
 - <a href="https://github.com/shikha1149myprojects/Three-Tier-K8s-DevSecOps">Three-Tier-K8s-DevSecOps</a>
@@ -37,7 +39,9 @@ My journey in Information Technology and Security has led me to develop a passio
 
 ## My Blogs
 
-- <a href="https://medium.com/@shikha1149mehta/windows-firewall-chronicles-part-1-7181552b0134">Windows Firewall Chronicles: Part 1</a>
+- <a href="https://medium.com/@shikha1149mehta/windows-firewall-chronicles-part-1-7181552b0134">Windows Firewall Chronicles: Part 1 Trigger-Based Firewall Automation for Windows: A How-To Guide</a>
+- <a href="https://medium.com/@shikha1149mehta/windows-firewall-chronicles-part-2-audit-report-remediate-hardening-windows-defender-rules-bf4e18f4b002">Windows Firewall Chronicles: Part 2 Audit. Report. Remediate: Hardening Windows Defender Rules</a>
+- <a href="https://medium.com/@shikha1149mehta/windows-firewall-chronicles-part-3-firewall-under-fire-testing-rules-in-a-virtual-attack-lab-42069f8b151a">Windows Firewall Chronicles: Part 3 Firewall Under Fire: Testing Rules in a Virtual Attack Lab</a>
 - <a href="https://medium.com/@shikha1149mehta/blackbasta-ttp-simulator-ransomware-tactics-defense-0c43dbe1e9c2">BlackBasta Ransomware TTP Simulator</a>
 - <a href="https://medium.com/@shikha1149mehta/secure-iac-with-ai-automation-441900aec61c">Secure IaC with AI & Automation</a>
 - <a href="https://www.linkedin.com/pulse/kubernetes-best-security-practices-shikha-mehta-1c8ee/?trackingId=ZffMOwmpXSMgNsKp97HkQA%3D%3D">Kubernetes Best Security Practices</a>
