@@ -48,7 +48,7 @@ My journey in Information Technology and Security has led me to develop a passio
 - <a href="https://www.linkedin.com/pulse/mastering-code-reviews-comprehensive-checklist-shikha-mehta-a2wse/?trackingId=%2BUXg4h3fJ0nfCCHOi%2B0X1g%3D%3D">Mastering Code Reviews with a Comprehensive Checklist</a>
 - <a href="https://medium.com/@shikha1149mehta/an-soc-analysts-guide-to-malware-analysis-part-1-dynamic-malware-analysis-3a2d69b7251e">An SOC Analyst's Guide to Malware Analysis - Part 1 (Dynamic Malware Analysis)</a>
 - <a href="https://medium.com/@shikha1149mehta/an-soc-analysts-guide-to-malware-analysis-part-2-malware-traffic-analysis-with-wireshark-bbaa4bd9f557">An SOC Analyst's Guide to Malware Analysis - Part 2 (Malware Traffic Analysis with Wireshark)</a>
-- <a href="https://www.linkedin.com/pulse/soc-analysts-guide-malware-analysis-part-3-malicious-shikha-mehta-ya8ke/?trackingId=JIvnxKCSoUh2CO14eavkTQ%3D%3D">An SOC Analyst's Guide to Malware Analysis - Part 3 (Malicious Document Analysis)</a>
+- <a href="https://medium.com/@shikha1149mehta/an-soc-analysts-guide-to-malware-analysis-part-3-malicious-document-analysis-4add4e379bee">An SOC Analyst's Guide to Malware Analysis - Part 3 (Malicious Document Analysis)</a>
 
 
 
