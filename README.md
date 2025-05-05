@@ -10,7 +10,13 @@ As a recent Cybersecurity Graduate with a Master’s degree from the University 
 
 My journey in Information Technology and Security has led me to develop a passion for Cybersecurity, and I am now eager to grow in this field, specifically aiming to work in roles of Security Engineering, Cloud Security Engineering, Information Security Engineering, Network Security Engineering or DevSecOps Engineering.
 
+## Security Automation Series
+1. <a href="https://github.com/shikha1149myprojects/Security-Automation-Toolkit">AutoSec Essentials: The Cyber Admin’s Swiss Army Knife</a>
+2. <a href="https://github.com/shikha1149myprojects/PortScanner-With-Threat-Intelligence">ThreatMapX — Scan, Flag, and Threat-Tag</a>
+3. <a href="https://github.com/shikha1149myprojects/Subdomain-Enumeration-Tool">SubZero: The Autonomous Subdomain Sleuth</a>
+
 ## Projects
+ 
 - <a href="https://medium.com/@shikha1149mehta/windows-firewall-chronicles-part-1-7181552b0134">Windows Firewall Chronicles: Part 1</a>
 - <a href="https://medium.com/@shikha1149mehta/windows-firewall-chronicles-part-2-audit-report-remediate-hardening-windows-defender-rules-bf4e18f4b002">Windows Firewall Chronicles: Part 2</a>
 - <a href="https://medium.com/@shikha1149mehta/windows-firewall-chronicles-part-3-firewall-under-fire-testing-rules-in-a-virtual-attack-lab-42069f8b151a">Windows Firewall Chronicles: Part 3</a>
