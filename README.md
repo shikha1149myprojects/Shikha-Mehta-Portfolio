@@ -76,7 +76,7 @@ My journey in Information Technology and Security has led me to develop a passio
 - **Infrastructure as Code**: Terraform, Ansible, Chef
 - **Security Monitoring Tools**: SonarQube, Prometheus, Grafana
 - **Secure Code Testing & Analysis**: Wireshark, Metasploit, SonarQube, Automated Security Tools
-- **SIEM Platforms**: Splunk, Microsoft Sentinel
+- **SIEM Platforms**: Splunk, Microsoft Sentinel, ELK
   
 
 ## Certifications
@@ -136,6 +136,7 @@ My journey in Information Technology and Security has led me to develop a passio
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Splunk-27ae60?&style=for-the-badge&logo=Splunk&logoColor=white" />
+     <img src="https://img.shields.io/badge/-ELK-1679A7?&style=for-the-badge&logo=ELK&logoColor=white" />
 </div>
 
 ### Cloud
