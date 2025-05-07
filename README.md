@@ -8,7 +8,7 @@ As a recent Cybersecurity Graduate with a Master’s degree from the University 
 
 ## Objective
 
-My journey in Information Technology and Security has led me to develop a passion for Cybersecurity, and I am now eager to grow in this field, specifically aiming to work in roles of Security Engineering, Cloud Security Engineering, Information Security Engineering, Network Security Engineering or DevSecOps Engineering.
+My journey in Information Technology and Security has led me to develop a passion for Cybersecurity, and I am now eager to grow in this field, specifically aiming to work in roles of Security Engineering, Security Automation, Cloud Security Engineering, Security Analyst, or DevSecOps Engineering.
 
 ## Security Automation Series
 1. <a href="https://github.com/shikha1149myprojects/Security-Automation-Toolkit">AutoSec Essentials: The Cyber Admin’s Swiss Army Knife</a>
