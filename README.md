@@ -12,9 +12,9 @@ My journey in Information Technology and Security has led me to develop a passio
 
 ## Security Automation Series
 1. <a href="https://github.com/shikha1149myprojects/Security-Automation-Toolkit">AutoSec Essentials: The Cyber Admin’s Swiss Army Knife</a>
-2. <a href="https://github.com/shikha1149myprojects/PortScanner-With-Threat-Intelligence">ThreatMapX — Scan, Flag, and Threat-Tag</a>
-3. <a href="https://github.com/shikha1149myprojects/Subdomain-Enumeration-Tool">SubZero: The Autonomous Subdomain Sleuth</a>
-4. <a href="https://github.com/shikha1149myprojects/Automated-Exploitation-Framework">REX – Remote Exploitation eXecutor</a>
+2. <a href="https://github.com/shikha1149myprojects/PortScanner-With-Threat-Intelligence">ThreatMapX — Scan, Flag, and Threat-Tag</a> (releasing May 12)
+3. <a href="https://github.com/shikha1149myprojects/Subdomain-Enumeration-Tool">SubZero: The Autonomous Subdomain Sleuth</a> (releasing May 19)
+4. <a href="https://github.com/shikha1149myprojects/Automated-Exploitation-Framework">REX – Remote Exploitation eXecutor</a> (releasing May 26)
 
 ## Projects
  
