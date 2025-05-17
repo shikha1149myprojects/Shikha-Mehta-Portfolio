@@ -15,6 +15,7 @@ My journey in Information Technology and Security has led me to develop a passio
 2. <a href="https://github.com/shikha1149myprojects/PortScanner-With-Threat-Intelligence">ThreatMapX — Scan, Flag, and Threat-Tag</a>
 3. <a href="https://github.com/shikha1149myprojects/Subdomain-Enumeration-Tool">SubZero: The Autonomous Subdomain Sleuth</a> (releasing May 19)
 4. <a href="https://github.com/shikha1149myprojects/Automated-Exploitation-Framework">REX – Remote Exploitation eXecutor</a> (releasing May 26)
+5. <a href="https://github.com/shikha1149myprojects/SIEM_Log_Parser_Automation">LogiGuard Sentinel: Smart Log Generation & Analysis Toolkit</a> (releasing June 2)
 
 ## Projects
  
