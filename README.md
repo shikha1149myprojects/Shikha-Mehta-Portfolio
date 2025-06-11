@@ -47,6 +47,7 @@ My journey in Information Technology and Security has led me to develop a passio
 
 ## My Blogs
 
+- <a href="https://medium.com/@shikha1149mehta/inside-the-cloud-lockdown-dissecting-a-ransomware-attack-on-aws-f1371a15eed9">Inside the Cloud Lockdown: Dissecting a Ransomware Attack on AWS</a>
 - <a href="https://medium.com/@shikha1149mehta/windows-firewall-chronicles-part-1-7181552b0134">Windows Firewall Chronicles: Part 1 Trigger-Based Firewall Automation for Windows: A How-To Guide</a>
 - <a href="https://medium.com/@shikha1149mehta/windows-firewall-chronicles-part-2-audit-report-remediate-hardening-windows-defender-rules-bf4e18f4b002">Windows Firewall Chronicles: Part 2 Audit. Report. Remediate: Hardening Windows Defender Rules</a>
 - <a href="https://medium.com/@shikha1149mehta/windows-firewall-chronicles-part-3-firewall-under-fire-testing-rules-in-a-virtual-attack-lab-42069f8b151a">Windows Firewall Chronicles: Part 3 Firewall Under Fire: Testing Rules in a Virtual Attack Lab</a>
