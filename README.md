@@ -3,6 +3,7 @@
 <a href="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3614804"><img src="https://img.shields.io/badge/-TryHackMe-EF3B2D?&style=for-the-badge&logo=TryHackMe&logoColor=white" /></a>
 <a href="https://vulnerable.codes/user/KingofPiratez"><img src="https://img.shields.io/badge/-Vulnerable%20Codes%20Profile-27ae60?&style=for-the-badge&logo=Vulnerable%20Codes%20Profile&logoColor=white" /></a>
 <a href="https://cryptohack.org/user/KingofPiratez/"><img src="https://img.shields.io/badge/-CryptoHack%20Profile-e67e22?&style=for-the-badge&logo=CryptoHack&logoColor=white" /></a>
+<a href="https://medium.com/@shikha1149mehta"><img src="https://img.shields.io/badge/-Medium-777BB4?&style=for-the-badge&logo=Medium&logoColor=white" /></a>
 
 As a recent Cybersecurity Graduate with a Master’s degree from the University of Maryland, I am passionate about Security Engineering, Scripting, and DevSecOps. My Python, Bash, and PowerShell expertise allow me to automate security processes, enhance system hardening, and integrate security into CI/CD pipelines. I have hands-on experience implementing security controls, conducting vulnerability assessments, and securing containerized environments to support modern DevSecOps practices. I am committed to developing scalable and efficient security solutions that align with evolving industry standards.
 
