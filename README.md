@@ -86,6 +86,7 @@ My journey in Information Technology and Security has led me to develop a passio
 
 ## Certifications
 <div>
+<img src="https://img.shields.io/badge/-OSCP-e67e22?&style=for-the-badge&logo=OffSec&logoColor=white" />
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Splunk-FFFFFF?&style=for-the-badge&logo=AWS&logoColor=white" />
 <img src="https://img.shields.io/badge/-CommonWealth%20Bank%20Job%20Simulation-FF9900?&style=for-the-badge&logo=CommonwealthBank&logoColor=white" /></a>
