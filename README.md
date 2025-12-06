@@ -5,11 +5,23 @@
 <a href="https://cryptohack.org/user/KingofPiratez/"><img src="https://img.shields.io/badge/-CryptoHack%20Profile-e67e22?&style=for-the-badge&logo=CryptoHack&logoColor=white" /></a>
 <a href="https://medium.com/@shikha1149mehta"><img src="https://img.shields.io/badge/-Medium-777BB4?&style=for-the-badge&logo=Medium&logoColor=white" /></a>
 
-As a recent Cybersecurity Graduate with a Master’s degree from the University of Maryland, I am passionate about Security Engineering, Scripting, and DevSecOps. My Python, Bash, and PowerShell expertise allow me to automate security processes, enhance system hardening, and integrate security into CI/CD pipelines. I have hands-on experience implementing security controls, conducting vulnerability assessments, and securing containerized environments to support modern DevSecOps practices. I am committed to developing scalable and efficient security solutions that align with evolving industry standards.
+As a recent Cybersecurity Graduate with a Master’s degree from the University of Maryland, I am passionate about Penetration Testing, Security Engineering, Scripting, and DevSecOps. As an OSCP-certified practitioner, I bring hands-on offensive security expertise alongside strong proficiency in Python, Bash, and PowerShell to automate testing workflows, enhance system hardening, and integrate security into CI/CD pipelines. I have practical experience performing vulnerability assessments, exploiting misconfigurations, conducting adversarial simulations, and securing containerized environments to support modern DevSecOps practices. I am committed to delivering scalable, efficient, and security-focused solutions that align with evolving industry standards.
 
 ## Objective
 
-My journey in Information Technology and Security has led me to develop a passion for Cybersecurity, and I am now eager to grow in this field, specifically aiming to work in roles of Security Engineering, Security Automation, Cloud Security Engineering, Security Analyst, or DevSecOps Engineering.
+My journey in Information Technology and Security has fueled a strong passion for Cybersecurity, and I am now eager to continue growing in the field, particularly in roles involving Penetration Testing, Security Engineering, Security Automation, Cloud Security Engineering, Security Analysis, or DevSecOps. As an OSCP-certified practitioner, I bring proven offensive security capabilities alongside a deep interest in building secure, scalable systems. I am motivated to apply my skills across both defensive and offensive domains to support modern security initiatives.
+
+## Certifications
+<div>
+<img src="https://img.shields.io/badge/-OSCP-e67e22?&style=for-the-badge&logo=OffSec&logoColor=white" />
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Splunk-FFFFFF?&style=for-the-badge&logo=AWS&logoColor=white" />
+<img src="https://img.shields.io/badge/-CommonWealth%20Bank%20Job%20Simulation-FF9900?&style=for-the-badge&logo=CommonwealthBank&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/-BECOME%20AN%20ETHICAL%20HACKER-0072b1?&style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/-DevSecOps-f7dc6f?&style=for-the-badge&logo=TryHackMe&logoColor=black" /></a>
+<img src="https://img.shields.io/badge/-The%20Bits%20&%20Bytes%20Of%20Computer%20Networking-af7ac5?&style=for-the-badge&logo=Google&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/-Security%20Engineer-EF3B2D?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
+</div>
 
 ## Security Automation Series
 1. <a href="https://github.com/shikha1149myprojects/Security-Automation-Toolkit">AutoSec Essentials: The Cyber Admin’s Swiss Army Knife</a>
@@ -83,18 +95,6 @@ My journey in Information Technology and Security has led me to develop a passio
 - **Secure Code Testing & Analysis**: Wireshark, Metasploit, SonarQube, Automated Security Tools
 - **SIEM Platforms**: Splunk, Microsoft Sentinel, ELK
   
-
-## Certifications
-<div>
-<img src="https://img.shields.io/badge/-OSCP-e67e22?&style=for-the-badge&logo=OffSec&logoColor=white" />
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Splunk-FFFFFF?&style=for-the-badge&logo=AWS&logoColor=white" />
-<img src="https://img.shields.io/badge/-CommonWealth%20Bank%20Job%20Simulation-FF9900?&style=for-the-badge&logo=CommonwealthBank&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/-BECOME%20AN%20ETHICAL%20HACKER-0072b1?&style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/-DevSecOps-f7dc6f?&style=for-the-badge&logo=TryHackMe&logoColor=black" /></a>
-<img src="https://img.shields.io/badge/-The%20Bits%20&%20Bytes%20Of%20Computer%20Networking-af7ac5?&style=for-the-badge&logo=Google&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/-Security%20Engineer-EF3B2D?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
-</div>
 
 ## Tools
 
