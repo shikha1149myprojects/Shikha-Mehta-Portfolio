@@ -1,22 +1,38 @@
-# Hello, I'm Shikha Mehta
+# 👋 Hi, I'm Shikha
+<a href="https://credentials.offsec.com/70bac570-beac-474a-8c9c-bbbfc0103079#acc.ySodKC7l"><img src="https://img.shields.io/badge/-OSCP-CC0000?&style=for-the-badge&logo=Offsec&logoColor=white" /></a>
 <a href="https://linkedin.com/in/shikha-mehta-8b49a7203"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3614804"><img src="https://img.shields.io/badge/-TryHackMe-EF3B2D?&style=for-the-badge&logo=TryHackMe&logoColor=white" /></a>
 <a href="https://vulnerable.codes/user/KingofPiratez"><img src="https://img.shields.io/badge/-Vulnerable%20Codes%20Profile-27ae60?&style=for-the-badge&logo=Vulnerable%20Codes%20Profile&logoColor=white" /></a>
 <a href="https://cryptohack.org/user/KingofPiratez/"><img src="https://img.shields.io/badge/-CryptoHack%20Profile-e67e22?&style=for-the-badge&logo=CryptoHack&logoColor=white" /></a>
 <a href="https://medium.com/@shikha1149mehta"><img src="https://img.shields.io/badge/-Medium-777BB4?&style=for-the-badge&logo=Medium&logoColor=white" /></a>
 
-I’m a cybersecurity professional who likes to break things before attackers do.
 
-With a Master’s in Cybersecurity from the University of Maryland and an OSCP certification, I focus on penetration testing, security engineering, and building practical security solutions. I’ve worked across vulnerability testing, security code review, web development, scripting, and AI in cybersecurity.
+**I like to break things before attackers do.**
 
-I enjoy turning real-world security problems into practical solutions, whether that means finding a vulnerability, automating a security task, or helping developers build more securely.
+I’m a cybersecurity professional with a **Master’s in Cybersecurity from the University of Maryland** and an **OSCP certification**. My experience spans **penetration testing, security engineering, secure code review, web development, scripting, and AI in cybersecurity**.
 
+I enjoy going beyond simply finding vulnerabilities. I like understanding **why they exist, how they can be exploited, and how to build practical solutions to prevent them.**
 
-## Objective
+> 🔎 Find vulnerabilities
+> ⚙️ Automate security
+> 🧠 Apply AI to cybersecurity
+> 🔐 Build more secure systems
 
-I’m looking to build on my cybersecurity experience by taking on real-world security challenges where I can learn, investigate, and make an impact. My interests span penetration testing, security engineering, cloud security, automation, and DevSecOps.
+---
 
-I enjoy understanding how systems work, finding where they can be improved, and turning those findings into practical solutions. I’m looking for opportunities where I can grow as a security professional while helping teams build and maintain safer, more reliable technology.
+## 🎯 What I'm Building Toward
+
+I’m looking for opportunities where I can take on **real-world security problems**, keep learning, and make a measurable impact.
+
+My interests include:
+
+**Offensive Security** · **Security Engineering** · **Cloud Security** · **Security Automation** · **DevSecOps** · **Application Security**
+
+I’m especially interested in work where **security meets engineering** — finding weaknesses, solving them, automating repetitive security tasks, and helping teams build safer technology from the start.
+
+### 🚀 My Goal
+
+**Keep learning. Break smarter. Build safer.**
 
 
 
