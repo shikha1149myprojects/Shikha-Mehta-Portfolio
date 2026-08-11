@@ -5,11 +5,20 @@
 <a href="https://cryptohack.org/user/KingofPiratez/"><img src="https://img.shields.io/badge/-CryptoHack%20Profile-e67e22?&style=for-the-badge&logo=CryptoHack&logoColor=white" /></a>
 <a href="https://medium.com/@shikha1149mehta"><img src="https://img.shields.io/badge/-Medium-777BB4?&style=for-the-badge&logo=Medium&logoColor=white" /></a>
 
-As a recent Cybersecurity Graduate with a Master’s degree from the University of Maryland, I am passionate about Penetration Testing, Security Engineering, Scripting, and DevSecOps. As an OSCP-certified practitioner, I bring hands-on offensive security expertise alongside strong proficiency in Python, Bash, and PowerShell to automate testing workflows, enhance system hardening, and integrate security into CI/CD pipelines. I have practical experience performing vulnerability assessments, exploiting misconfigurations, conducting adversarial simulations, and securing containerized environments to support modern DevSecOps practices. I am committed to delivering scalable, efficient, and security-focused solutions that align with evolving industry standards.
+I’m a cybersecurity professional who likes to break things before attackers do.
+
+With a Master’s in Cybersecurity from the University of Maryland and an OSCP certification, I focus on penetration testing, security engineering, and building practical security solutions. I’ve worked across vulnerability testing, security code review, web development, scripting, and AI in cybersecurity.
+
+I enjoy turning real-world security problems into practical solutions, whether that means finding a vulnerability, automating a security task, or helping developers build more securely.
+
 
 ## Objective
 
-My journey in Information Technology and Security has fueled a strong passion for Cybersecurity, and I am now eager to continue growing in the field, particularly in roles involving Penetration Testing, Security Engineering, Security Automation, Cloud Security Engineering, Security Analysis, or DevSecOps. As an OSCP-certified practitioner, I bring proven offensive security capabilities alongside a deep interest in building secure, scalable systems. I am motivated to apply my skills across both defensive and offensive domains to support modern security initiatives.
+I’m looking to build on my cybersecurity experience by taking on real-world security challenges where I can learn, investigate, and make an impact. My interests span penetration testing, security engineering, cloud security, automation, and DevSecOps.
+
+I enjoy understanding how systems work, finding where they can be improved, and turning those findings into practical solutions. I’m looking for opportunities where I can grow as a security professional while helping teams build and maintain safer, more reliable technology.
+
+
 
 ## Certifications
 <div>
@@ -23,138 +32,275 @@ My journey in Information Technology and Security has fueled a strong passion fo
 <img src="https://img.shields.io/badge/-Security%20Engineer-EF3B2D?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
 </div>
 
-## Security Automation Series
-1. <a href="https://github.com/shikha1149myprojects/Security-Automation-Toolkit">AutoSec Essentials: The Cyber Admin’s Swiss Army Knife</a>
-2. <a href="https://github.com/shikha1149myprojects/PortScanner-With-Threat-Intelligence">ThreatMapX — Scan, Flag, and Threat-Tag</a>
-3. <a href="https://github.com/shikha1149myprojects/Subdomain-Enumeration-Tool">SubZero: The Autonomous Subdomain Sleuth</a> 
-4. <a href="https://github.com/shikha1149myprojects/Automated-Exploitation-Framework">REX – Remote Exploitation eXecutor</a>
-5. <a href="https://github.com/shikha1149myprojects/SIEM_Log_Parser_Automation">LogiGuard Sentinel: Smart Log Generation & Analysis Toolkit</a> 
+## 🛡️ Security Projects
 
-## Projects
- 
-- <a href="https://medium.com/@shikha1149mehta/windows-firewall-chronicles-part-1-7181552b0134">Windows Firewall Chronicles: Part 1</a>
-- <a href="https://medium.com/@shikha1149mehta/windows-firewall-chronicles-part-2-audit-report-remediate-hardening-windows-defender-rules-bf4e18f4b002">Windows Firewall Chronicles: Part 2</a>
-- <a href="https://medium.com/@shikha1149mehta/windows-firewall-chronicles-part-3-firewall-under-fire-testing-rules-in-a-virtual-attack-lab-42069f8b151a">Windows Firewall Chronicles: Part 3</a>
-- <a href="https://medium.com/@shikha1149mehta/blackbasta-ttp-simulator-ransomware-tactics-defense-0c43dbe1e9c2">BlackBasta Ransomware TTP Simulator</a>
-- <a href="https://github.com/shikha1149myprojects/Secure-IaC">Secure IaC with AI & Automation</a>
-- <a href="https://github.com/shikha1149myprojects/Three-Tier-K8s-DevSecOps">Three-Tier-K8s-DevSecOps</a>
-- <a href="https://github.com/shikha1149myprojects/Penetration-Testing">Penetration Testing (DVWA App)</a>
-- <a href="https://github.com/shikha1149myprojects/CMMC-Level1-Assessment">CMMC 2.0 Level 1 Assessment</a>
-- <a href="https://github.com/shikha1149myprojects/Capture-The-Flag">Capture The Flag Project</a>
-- <a href="https://github.com/shikha1149myprojects/Securing-a-Cloud-based-Healthcare-Application">Securing a Cloud-based Healthcare Application</a>
-- <a href="https://github.com/shikha1149myprojects/Architectural-Design-and-Overview-of-Proposed-Healthcare-Application-Platform">Architectural Design of Healthcare Application Platform</a>
-- <a href="https://github.com/shikha1149myprojects/OSINT-Recon">OSINT Recon Report</a>
-- <a href="https://github.com/shikha1149myprojects/Web-Scraping-Project">Web Scraping Project</a>
-- <a href="https://github.com/shikha1149myprojects/Security-Tools-Automation">Security Tools Automation</a>
-- <a href="https://github.com/shikha1149myprojects/LogAnalysis-IncidentResponse">Log Analysis - Splunk</a>
-- <a href="https://github.com/shikha1149myprojects/Email-Phishing-Detection">Phishing Email Detection System</a>
-- <a href="https://github.com/shikha1149myprojects/Website-Security-Auditing">Website Security Auditing</a>
-- <a href="https://github.com/shikha1149myprojects/SecurityAudit">Security Auditing of a company</a>
-- <a href="https://github.com/shikha1149myprojects/Penetration-Testing-Report">Penetration Testing Final Report Writing</a>
-- <a href="https://github.com/shikha1149myprojects/Tool-Comparison-Technical-Guide">Cybersecurity Tool Comparison Technical Guide</a>
-- <a href="https://github.com/shikha1149myprojects/Simple-Keylogger">Simple Keylogger</a>
-- <a href="https://github.com/shikha1149myprojects/Simple-Packet-Sniffer">Simple Packet Sniffer</a>
-- <a href="https://github.com/shikha1149myprojects/Lost-Data-Retrieval">Ransomeware Data Recovery Procedure</a>
-- Port Swigger Labs
+> **I don't just study cybersecurity — I build, break, automate, and document it.**
 
+### ⚡ Featured Work
 
-## My Blogs
+| 🔥 Project                                                                                                         | What I Built                                                                                         |
+| ------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------- |
+| **[REX — Remote Exploitation eXecutor](https://github.com/shikha1149myprojects/Automated-Exploitation-Framework)** | Automated exploitation framework designed to streamline security testing and exploitation workflows. |
+| **[ThreatMapX](https://github.com/shikha1149myprojects/PortScanner-With-Threat-Intelligence)**                     | Port scanner enhanced with threat intelligence to identify and flag potentially risky services.      |
+| **[SubZero](https://github.com/shikha1149myprojects/Subdomain-Enumeration-Tool)**                                  | Automated subdomain enumeration tool for reconnaissance and attack-surface discovery.                |
+| **[LogiGuard Sentinel](https://github.com/shikha1149myprojects/SIEM_Log_Parser_Automation)**                       | Security log generation and analysis toolkit for identifying suspicious activity.                    |
+| **[Secure IaC with AI](https://github.com/shikha1149myprojects/Secure-IaC)**                                       | Combined infrastructure security, automation, and AI to identify potential security issues in IaC.   |
+| **[Three-Tier Kubernetes DevSecOps](https://github.com/shikha1149myprojects/Three-Tier-K8s-DevSecOps)**            | Security-focused Kubernetes deployment incorporating DevSecOps practices.                            |
 
-- <a href="https://medium.com/@shikha1149mehta/%EF%B8%8F-%EF%B8%8F-the-ultimate-bug-bounty-hunting-checklist-from-recon-to-reporting-99010d5402f3">The Ultimate Bug Bounty Hunting Checklist: From Recon to Reporting</a>
-- <a href="https://medium.com/@shikha1149mehta/inside-the-cloud-lockdown-dissecting-a-ransomware-attack-on-aws-f1371a15eed9">Inside the Cloud Lockdown: Dissecting a Ransomware Attack on AWS</a>
-- <a href="https://medium.com/@shikha1149mehta/windows-firewall-chronicles-part-1-7181552b0134">Windows Firewall Chronicles: Part 1 Trigger-Based Firewall Automation for Windows: A How-To Guide</a>
-- <a href="https://medium.com/@shikha1149mehta/windows-firewall-chronicles-part-2-audit-report-remediate-hardening-windows-defender-rules-bf4e18f4b002">Windows Firewall Chronicles: Part 2 Audit. Report. Remediate: Hardening Windows Defender Rules</a>
-- <a href="https://medium.com/@shikha1149mehta/windows-firewall-chronicles-part-3-firewall-under-fire-testing-rules-in-a-virtual-attack-lab-42069f8b151a">Windows Firewall Chronicles: Part 3 Firewall Under Fire: Testing Rules in a Virtual Attack Lab</a>
-- <a href="https://medium.com/@shikha1149mehta/blackbasta-ttp-simulator-ransomware-tactics-defense-0c43dbe1e9c2">BlackBasta Ransomware TTP Simulator</a>
-- <a href="https://medium.com/@shikha1149mehta/secure-iac-with-ai-automation-441900aec61c">Secure IaC with AI & Automation</a>
-- <a href="https://www.linkedin.com/pulse/kubernetes-best-security-practices-shikha-mehta-1c8ee/?trackingId=ZffMOwmpXSMgNsKp97HkQA%3D%3D">Kubernetes Best Security Practices</a>
-- <a href="https://www.linkedin.com/pulse/mastering-code-reviews-comprehensive-checklist-shikha-mehta-a2wse/?trackingId=%2BUXg4h3fJ0nfCCHOi%2B0X1g%3D%3D">Mastering Code Reviews with a Comprehensive Checklist</a>
-- <a href="https://medium.com/@shikha1149mehta/an-soc-analysts-guide-to-malware-analysis-part-1-dynamic-malware-analysis-3a2d69b7251e">An SOC Analyst's Guide to Malware Analysis - Part 1 (Dynamic Malware Analysis)</a>
-- <a href="https://medium.com/@shikha1149mehta/an-soc-analysts-guide-to-malware-analysis-part-2-malware-traffic-analysis-with-wireshark-bbaa4bd9f557">An SOC Analyst's Guide to Malware Analysis - Part 2 (Malware Traffic Analysis with Wireshark)</a>
-- <a href="https://medium.com/@shikha1149mehta/an-soc-analysts-guide-to-malware-analysis-part-3-malicious-document-analysis-4add4e379bee">An SOC Analyst's Guide to Malware Analysis - Part 3 (Malicious Document Analysis)</a>
+---
+
+### 🤖 Security Automation Series
+
+A collection of tools I built to automate repetitive security tasks and make security testing faster.
+
+**01 · [AutoSec Essentials](https://github.com/shikha1149myprojects/Security-Automation-Toolkit)**
+`Security Automation` `Python` `System Security`
+
+**02 · [ThreatMapX](https://github.com/shikha1149myprojects/PortScanner-With-Threat-Intelligence)**
+`Reconnaissance` `Port Scanning` `Threat Intelligence`
+
+**03 · [SubZero](https://github.com/shikha1149myprojects/Subdomain-Enumeration-Tool)**
+`OSINT` `Reconnaissance` `Attack Surface Discovery`
+
+**04 · [REX](https://github.com/shikha1149myprojects/Automated-Exploitation-Framework)**
+`Exploitation` `Penetration Testing` `Automation`
+
+**05 · [LogiGuard Sentinel](https://github.com/shikha1149myprojects/SIEM_Log_Parser_Automation)**
+`SIEM` `Log Analysis` `Threat Detection`
+
+---
+
+### 🧨 Offensive Security
+
+* **[Penetration Testing — DVWA](https://github.com/shikha1149myprojects/Penetration-Testing)** — Web application penetration testing
+* **[OSINT Recon](https://github.com/shikha1149myprojects/OSINT-Recon)** — Reconnaissance and information gathering
+* **[Capture The Flag](https://github.com/shikha1149myprojects/Capture-The-Flag)** — CTF-based security challenges
+* **[Website Security Auditing](https://github.com/shikha1149myprojects/Website-Security-Auditing)** — Website security assessment
+* **[Penetration Testing Report](https://github.com/shikha1149myprojects/Penetration-Testing-Report)** — Security findings and professional reporting
+* **PortSwigger Web Security Academy Labs** — Hands-on web application security testing
+
+---
+
+### 🛡️ Defensive Security & Incident Response
+
+* **[BlackBasta TTP Simulator](https://medium.com/@shikha1149mehta/blackbasta-ttp-simulator-ransomware-tactics-defense-0c43dbe1e9c2)** — Simulating ransomware techniques and defensive responses
+* **[Log Analysis — Splunk](https://github.com/shikha1149myprojects/LogAnalysis-IncidentResponse)** — Security log investigation and incident analysis
+* **[Phishing Email Detection](https://github.com/shikha1149myprojects/Email-Phishing-Detection)** — Detecting potentially malicious emails
+* **[Ransomware Data Recovery](https://github.com/shikha1149myprojects/Lost-Data-Retrieval)** — Data recovery and response procedures
+* **[Security Audit](https://github.com/shikha1149myprojects/SecurityAudit)** — Security assessment of a company
+
+---
+
+### ☁️ Cloud, Infrastructure & DevSecOps
+
+* **[Secure IaC with AI & Automation](https://github.com/shikha1149myprojects/Secure-IaC)** — Securing infrastructure through automation and AI
+* **[Three-Tier Kubernetes DevSecOps](https://github.com/shikha1149myprojects/Three-Tier-K8s-DevSecOps)** — Kubernetes security and DevSecOps
+* **[Cloud Healthcare Application Security](https://github.com/shikha1149myprojects/Securing-a-Cloud-based-Healthcare-Application)** — Securing a cloud-based healthcare environment
+* **[Healthcare Application Architecture](https://github.com/shikha1149myprojects/Architectural-Design-and-Overview-of-Proposed-Healthcare-Application-Platform)** — Secure application architecture and design
+* **[CMMC 2.0 Level 1 Assessment](https://github.com/shikha1149myprojects/CMMC-Level1-Assessment)** — Security and compliance assessment
+
+---
+
+### 🔎 Security Research & Analysis
+
+* **[Windows Firewall Chronicles — Part 1](https://medium.com/@shikha1149mehta/windows-firewall-chronicles-part-1-7181552b0134)** — Firewall automation
+* **[Windows Firewall Chronicles — Part 2](https://medium.com/@shikha1149mehta/windows-firewall-chronicles-part-2-audit-report-remediate-hardening-windows-defender-rules-bf4e18f4b002)** — Auditing and hardening
+* **[Windows Firewall Chronicles — Part 3](https://medium.com/@shikha1149mehta/windows-firewall-chronicles-part-3-firewall-under-fire-testing-rules-in-a-virtual-attack-lab-42069f8b151a)** — Attack testing in a controlled lab
+* **[Simple Packet Sniffer](https://github.com/shikha1149myprojects/Simple-Packet-Sniffer)** — Network traffic analysis
+* **[Simple Keylogger](https://github.com/shikha1149myprojects/Simple-Keylogger)** — Security research and endpoint monitoring concepts
+* **[Cybersecurity Tool Comparison](https://github.com/shikha1149myprojects/Tool-Comparison-Technical-Guide)** — Comparing security tools and their use cases
+
+---
+
+## ✍️ Security Research & Writing
+
+> **Breaking things is only half the job. I also like documenting what I learn.**
+
+### 🔥 Security & Offensive Security
+
+**[The Ultimate Bug Bounty Hunting Checklist](https://medium.com/@shikha1149mehta/%EF%B8%8F-%EF%B8%8F-the-ultimate-bug-bounty-hunting-checklist-from-recon-to-reporting-99010d5402f3)**
+From reconnaissance to reporting — a practical bug bounty workflow.
+
+**[Inside the Cloud Lockdown](https://medium.com/@shikha1149mehta/inside-the-cloud-lockdown-dissecting-a-ransomware-attack-on-aws-f1371a15eed9)**
+Breaking down a ransomware attack against an AWS environment.
+
+**[Secure IaC with AI & Automation](https://medium.com/@shikha1149mehta/secure-iac-with-ai-automation-441900aec61c)**
+Exploring how AI and automation can improve infrastructure security.
+
+### 🧱 Windows & Infrastructure Security
+
+**[Windows Firewall Chronicles](https://medium.com/@shikha1149mehta/windows-firewall-chronicles-part-1-7181552b0134)**
+A three-part series covering firewall automation, auditing, hardening, and attack testing.
+
+### ☸️ Cloud & Kubernetes
+
+**[Kubernetes Best Security Practices](https://www.linkedin.com/pulse/kubernetes-best-security-practices-shikha-mehta-1c8ee/)**
+Practical security considerations for Kubernetes environments.
+
+### 💻 Secure Development
+
+**[Mastering Code Reviews](https://www.linkedin.com/pulse/mastering-code-reviews-comprehensive-checklist-shikha-mehta-a2wse/)**
+A practical checklist for finding security issues during code review.
+
+### 🦠 Malware & Threat Analysis
+
+**[SOC Analyst's Guide to Malware Analysis — Part 1](https://medium.com/@shikha1149mehta/an-soc-analysts-guide-to-malware-analysis-part-1-dynamic-malware-analysis-3a2d69b7251e)**
+Dynamic malware analysis and investigation.
+
+**[Part 2 — Malware Traffic Analysis](https://medium.com/@shikha1149mehta/an-soc-analysts-guide-to-malware-analysis-part-2-malware-traffic-analysis-with-wireshark-bbaa4bd9f557)**
+Analyzing malicious network traffic with Wireshark.
+
+**[Part 3 — Malicious Documents](https://medium.com/@shikha1149mehta/an-soc-analysts-guide-to-malware-analysis-part-3-malicious-document-analysis-4add4e379bee)**
+Analyzing suspicious and malicious documents.
 
 
 
 ## Skills
 
-- **Programming & Scripting**: Python, Java, C, Kotlin, Go, JavaScript, Bash, PowerShell
-- **Code Development and Collaboration**: VS Code, GitHub, GitLab
-- **Security Tools**: Burp Suite, Nmap, Metasploit, Nessus, Wireshark
-- **Security & Ethical Hacking Platforms**: OWASP, TryHackMe
-- **Operating Systems**: Windows, Linux, MacOS
-- **AI & Machine Learning**: Machine Learning (ML), Natural Language Processing (NLP), Artificial Intelligence (AI)
-- **Cloud & Networking**: AWS, Google Cloud, Azure, Cloud Security, Network Security, TCP/IP, Firewalls, IDS/IPS
-- **Offensive Security**: Penetration Testing, Ethical Hacking
-- **Defensive Security**: Incident Response, Security Auditing
-- **Vulnerability & Risk Management**: Vulnerability Management, IAM
-- **Digital Forensics & Threat Analysis**: Digital Forensics (DFIR), Malware Analysis
-- **Threat Hunting**: MITRE ATT&CK, IOCs, IOAs
-- **CI/CD & Automation**: Jenkins, Docker, Kubernetes, Terraform, GitHub Actions, Bitbucket Pipelines, ArgoCD
-- **Infrastructure as Code**: Terraform, Ansible, Chef
-- **Security Monitoring Tools**: SonarQube, Prometheus, Grafana
-- **Secure Code Testing & Analysis**: Wireshark, Metasploit, SonarQube, Automated Security Tools
-- **SIEM Platforms**: Splunk, Microsoft Sentinel, ELK
-  
+### 🔴 Offensive Security
 
+`Penetration Testing` · `Web Application Security` · `Vulnerability Assessment` · `Network Security Testing` · `Ethical Hacking` · `Adversary Simulation` · `Privilege Escalation` · `Security Testing`
+
+### 🔵 Application Security
+
+`Secure Code Review` · `OWASP Top 10` · `API Security` · `Authentication & Authorization` · `Input Validation` · `Vulnerability Discovery` · `Security Testing` · `DevSecOps`
+
+### 🟢 Security Engineering
+
+`Security Automation` · `System Hardening` · `Security Architecture` · `IAM` · `Network Security` · `Firewall Security` · `IDS/IPS` · `Security Controls`
+
+### 🟣 Cloud & Infrastructure Security
+
+`AWS` · `Azure` · `Google Cloud` · `Cloud Security` · `Container Security` · `Docker` · `Kubernetes` · `Infrastructure as Code`
+
+### 🟠 Detection & Threat Analysis
+
+`Threat Hunting` · `Incident Response` · `Security Monitoring` · `Log Analysis` · `SIEM` · `IOC Analysis` · `IOA Analysis` · `MITRE ATT&CK`
+
+### 🟡 Security Automation & DevSecOps
+
+`Python` · `Bash` · `PowerShell` · `CI/CD Security` · `Security Automation` · `SAST` · `Vulnerability Scanning` · `Pipeline Security`
+
+### 🟤 AI & Cybersecurity
+
+`AI for Cybersecurity` · `Machine Learning` · `NLP` · `Threat Detection` · `Security Data Analysis` · `Anomaly Detection`
+
+### ⚫ Digital Forensics & Malware
+
+`Digital Forensics` · `DFIR` · `Malware Analysis` · `Threat Analysis` · `Evidence Analysis`
+
+### 💻 Programming
+
+`Python` · `Bash` · `PowerShell` · `Java` · `C` · `Go` · `JavaScript` · `Kotlin`
+
+### ☁️ Platforms & Environments
+
+`Linux` · `Windows` · `macOS` · `AWS` · `Azure` · `Google Cloud`
+
+### 🛠️ Development & Collaboration
+
+`Git` · `GitHub` · `GitLab` · `VS Code` · `REST APIs` · `JSON` · `TCP/IP`
+
+
+  
 ## Tools
 
 ### Operating Systems
+
 <div>
-    <img src="https://img.shields.io/badge/-Linux-777BB4?&style=for-the-badge&logo=Linux&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Mac%20OS-1679A7?&style=for-the-badge&logo=MacOS&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Windows-76d7c4?&style=for-the-badge&logo=Microsoft%20Windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Linux-111111?&style=for-the-badge&logo=Linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Windows-0078D6?&style=for-the-badge&logo=Windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-macOS-000000?&style=for-the-badge&logo=Apple&logoColor=white" />
 </div>
 
-### DevSecOps & Automation
+### Penetration Testing & Red Team
+
 <div>
-  <img src="https://img.shields.io/badge/-CI/CD%20Pipelines-f5b041?&style=for-the-badge&logo=CI/CD%20Pipelines&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Jenkins-8e44ad?&style=for-the-badge&logo=Jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Github-27ae60?&style=for-the-badge&logo=Github&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Kubernetes-3498db?&style=for-the-badge&logo=Kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Terraform-76d7c4?&style=for-the-badge&logo=Terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/-IaC-f4d03f?&style=for-the-badge&logo=IaC&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Docker-e67e22?&style=for-the-badge&logo=Docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/-SonarQube-8e44ad?&style=for-the-badge&logo=SonarSource&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Argo%20CD-FFC0CB?&style=for-the-badge&logo=Argo%CD&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Trivy-27ae60?&style=for-the-badge&logo=Trivy&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Git-e67e22?&style=for-the-badge&logo=Git&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Metasploit-2596CD?&style=for-the-badge&logo=Metasploit&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-4682B4?&style=for-the-badge&logo=Nmap&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Burp%20Suite-FF6633?&style=for-the-badge&logo=Burp%20Suite&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Netcat-333333?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Impacket-333333?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Responder-333333?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-BloodHound-CC0000?&style=for-the-badge&logoColor=white" />
 </div>
 
-### Network
+### Web & Application Security
+
 <div>
+    <img src="https://img.shields.io/badge/-Burp%20Suite-FF6633?&style=for-the-badge&logo=Burp%20Suite&logoColor=white" />
+    <img src="https://img.shields.io/badge/-OWASP%20ZAP-00549E?&style=for-the-badge&logo=OWASP&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SQLmap-111111?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Gobuster-111111?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-ffuf-111111?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nikto-111111?&style=for-the-badge&logoColor=white" />
+</div>
+
+### Vulnerability Assessment & Security Testing
+
+<div>
+    <img src="https://img.shields.io/badge/-Nessus-00AEEF?&style=for-the-badge&logo=Tenable&logoColor=white" />
+    <img src="https://img.shields.io/badge/-OpenVAS-333333?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-4682B4?&style=for-the-badge&logo=Nmap&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-NMap-EF3B2D?&style=for-the-badge&logo=NMap&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Metasploit-777BB4?&style=for-the-badge&logo=Metasploit&logoColor=white" />
-    <img src="https://img.shields.io/badge/-BurpSuite-1679A7?&style=for-the-badge&logo=BurpSuite&logoColor=white" />
-    <img src="https://img.shields.io/badge/-NetCat-EF3B2D?&style=for-the-badge&logo=NetCat&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Aircrack%20ng-FF9900?&style=for-the-badge&logo=Aircrack%20ng&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nessus-FFFFFF?&style=for-the-badge&logo=Nessus&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Snort-8e44ad?&style=for-the-badge&logo=Snort&logoColor=white" />
 </div>
 
-### Password Cracking Tools
+### Password & Credential Testing
+
 <div>
-    <img src="https://img.shields.io/badge/-John%20The%20Ripper-777BB4?&style=for-the-badge&logo=John%20The%20Ripper&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Hydra-3498db?&style=for-the-badge&logo=Hydra&logoColor=white" />
-     <img src="https://img.shields.io/badge/-Hashcat-FFC0CB?&style=for-the-badge&logo=Hashcat&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Hashcat-111111?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-John%20the%20Ripper-111111?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Hydra-333333?&style=for-the-badge&logoColor=white" />
 </div>
 
-### SIEM
+### Scripting & Programming
+
 <div>
-    <img src="https://img.shields.io/badge/-Splunk-27ae60?&style=for-the-badge&logo=Splunk&logoColor=white" />
-     <img src="https://img.shields.io/badge/-ELK-1679A7?&style=for-the-badge&logo=ELK&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=GNU%20Bash&logoColor=white" />
+    <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=PowerShell&logoColor=white" />
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?&style=for-the-badge&logo=JavaScript&logoColor=black" />
+    <img src="https://img.shields.io/badge/-SQL-4479A1?&style=for-the-badge&logo=MySQL&logoColor=white" />
 </div>
 
-### Cloud
+### DevSecOps & Container Security
+
 <div>
-    <img src="https://img.shields.io/badge/-AWS-1679A7?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Azure-FFC0CB?&style=for-the-badge&logo=Microsoft&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Google%20Cloud-8e44ad?&style=for-the-badge&logo=Google&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=Docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Kubernetes-326CE5?&style=for-the-badge&logo=Kubernetes&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Jenkins-D24939?&style=for-the-badge&logo=Jenkins&logoColor=white" />
+    <img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?&style=for-the-badge&logo=GitHub%20Actions&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Terraform-7B42BC?&style=for-the-badge&logo=Terraform&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SonarQube-4E9BCD?&style=for-the-badge&logo=SonarQube&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Trivy-1904DA?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Argo%20CD-EF7B4D?&style=for-the-badge&logo=Argo&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=Git&logoColor=white" />
+    <img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=GitHub&logoColor=white" />
 </div>
 
-## Bootcamps
+### Cloud Security
+
 <div>
-<img src="https://img.shields.io/badge/-Cybersecurity101%20Full%20Stack%20Academy-FFFFFF?&style=for-the-badge&logo=FullStackAcademy&logoColor=white" />
+    <img src="https://img.shields.io/badge/-AWS-232F3E?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft%20Azure-0078D4?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?&style=for-the-badge&logo=Google%20Cloud&logoColor=white" />
+</div>
+
+### Security Monitoring & Detection
+
+<div>
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elastic%20Stack-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Snort-EF3B2D?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+</div>
+
+### Infrastructure & Security Tools
+
+<div>
+    <img src="https://img.shields.io/badge/-Aircrack--ng-1679A7?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Netcat-333333?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-OpenSSL-721412?&style=for-the-badge&logo=OpenSSL&logoColor=white" />
 </div>
 
 
